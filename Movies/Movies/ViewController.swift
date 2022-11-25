@@ -12,7 +12,7 @@
 class ViewController: UIViewController{
 
      // MARK: - OUTLETS
-    @IBOutlet weak var navbar:NavBar!
+//    @IBOutlet weak var navbar:NavBar!
     @IBOutlet weak var tab:UIView!
     @IBOutlet weak var cv:UIView!
     
@@ -26,12 +26,14 @@ class ViewController: UIViewController{
     
     override func viewDidLoad() {
            super.viewDidLoad()
-        navbar.title.text = "Movies"
-        navbar.leftButton.isHidden = true
-        navbar.rightButton.isHidden = false
-        navbar.rightButton.title.text = "Done"
-//        self.addChildVCWithMultiplier(collectionView, toView: self.cv, aniamte: false)
-//        addChildVCWithMultiplier(tabbar, toView: self.tab, aniamte: true)
+//        navbar.title.text = "Movies"
+//        navbar.leftButton.isHidden = true
+//        navbar.rightButton.isHidden = false
+//        navbar.rightButton.title.text = "Done"
+        viewModel.updateCurrentMoviesList(type: "SRK")
+        self.addChildVCWithMultiplier(collectionView, toView: self.cv, aniamte: false)
+        addChildVCWithMultiplier(tabbar, toView: self.tab, aniamte: true)
+        
     
     }
     
@@ -48,7 +50,7 @@ class ViewController: UIViewController{
     // MARK: - Lazy Methods
          lazy var collectionView : ReusableCV = {
              
-             let customLayout = ReusableCVLayout(forVerticalLayoutNumberOfColumn: 3)
+             let customLayout = ReusableCVLayout(forVerticalLayoutNumberOfColumn: 2)
              var myConfig = CVConfig(cellClass: MoviesCVC(), cellIdentifier: "MoviesCVC", reusableLayout: customLayout)
              return ReusableCV.createInstance(delegate: self, config: myConfig)
          }()
@@ -101,9 +103,11 @@ extension ViewController : CustomBarVCDelegate {
     func didTapAtIndex(Index: Int, indexName: String) {
         if Index == 0{
             viewModel.updateCurrentMoviesList(type: "SRK")
+            collectionView.refresh()
         }
         else{
             viewModel.updateCurrentMoviesList(type: "Imraan")
+            collectionView.refresh()
         }
     }
     

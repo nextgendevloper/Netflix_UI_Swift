@@ -16,22 +16,15 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iAY-qH-pAY" customClass="NavBar" customModule="Movies" customModuleProvider="target">
-                                <rect key="frame" x="0.0" y="44" width="414" height="44"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="44" id="OyR-AB-dSb"/>
-                                </constraints>
-                            </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="h1y-PK-v1v">
-                                <rect key="frame" x="0.0" y="88" width="414" height="44"/>
+                                <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="cPY-47-eMi"/>
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VGA-EZ-cGQ">
-                                <rect key="frame" x="0.0" y="132" width="414" height="730"/>
+                                <rect key="frame" x="0.0" y="88" width="414" height="774"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </view>
                         </subviews>
@@ -39,20 +32,16 @@
                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="h1y-PK-v1v" secondAttribute="trailing" id="9Rh-3D-aBH"/>
-                            <constraint firstItem="iAY-qH-pAY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="AsT-9w-Rix"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="iAY-qH-pAY" secondAttribute="trailing" id="Dg5-CO-wsW"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="VGA-EZ-cGQ" secondAttribute="bottom" id="ESU-eb-VCC"/>
                             <constraint firstItem="VGA-EZ-cGQ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="KRt-Pk-oCg"/>
-                            <constraint firstItem="h1y-PK-v1v" firstAttribute="top" secondItem="iAY-qH-pAY" secondAttribute="bottom" id="NTP-ZH-W2c"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="VGA-EZ-cGQ" secondAttribute="trailing" id="R1V-Wc-SEp"/>
                             <constraint firstItem="h1y-PK-v1v" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="RMD-gW-0qX"/>
-                            <constraint firstItem="iAY-qH-pAY" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="S9H-ZJ-kvo" customClass="NavBar" customModule="Movies" customModuleProvider="target"/>
                             <constraint firstItem="VGA-EZ-cGQ" firstAttribute="top" secondItem="h1y-PK-v1v" secondAttribute="bottom" id="eiL-gO-HAT"/>
+                            <constraint firstItem="VGA-EZ-cGQ" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="44" id="nI2-MR-R65"/>
                         </constraints>
                     </view>
                     <connections>
                         <outlet property="cv" destination="VGA-EZ-cGQ" id="dU9-Zi-jRx"/>
-                        <outlet property="navbar" destination="iAY-qH-pAY" id="qEa-PX-PCA"/>
                         <outlet property="tab" destination="h1y-PK-v1v" id="fsh-tL-J5J"/>
                     </connections>
                 </viewController>

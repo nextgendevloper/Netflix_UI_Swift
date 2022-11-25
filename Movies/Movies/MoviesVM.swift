@@ -7,17 +7,17 @@
 
 import Foundation
 
-protocol PredefinedVMDelegate{
-    func onChange(_ dm:MoviesDM)
-    func onChangeDelete(dm:MoviesDM)
-    func onChangeNewPreset(dm:MoviesDM)
-}
+//protocol PredefinedVMDelegate{
+//    func onChange(_ dm:MoviesDM)
+//    func onChangeDelete(dm:MoviesDM)
+//    func onChangeNewPreset(dm:MoviesDM)
+//}
 
 protocol PredefinedVMInterface{
     var srkML : [MoviesDM]{get set}
     var imraanML :  [MoviesDM]{get set}
     var currentMoviesList : [MoviesDM]{get set}
-    var delegate : PredefinedVMDelegate?{get set}
+//    var delegate : PredefinedVMDelegate?{get set}
 //    var bindSelectedMovie:((MoviesDM)->())?{get set}
     var bindDismissOrRemove:(()->())?{get set}
 //    var currentModel : MoviesDM{get set}
@@ -45,7 +45,7 @@ class MoviesVM:PredefinedVMInterface{
     
     var currentMoviesList: [MoviesDM]
     
-    var delegate: PredefinedVMDelegate?
+//    var delegate: PredefinedVMDelegate?
     
 //    var bindSelectedPreset: ((MoviesDM) -> ())?
     
@@ -64,6 +64,9 @@ class MoviesVM:PredefinedVMInterface{
     }
 
     func categoriesMovies(){
+       currentMoviesList = [MoviesDM]()
+        imraanML = [MoviesDM]()
+        srkML = [MoviesDM]()
         for item in MoviesDM.getDefaultArray(){
             if item.actor == "SRK"{
                 srkML.append(item)
@@ -77,6 +80,7 @@ class MoviesVM:PredefinedVMInterface{
     func updateCurrentMoviesList(type:String){
         if type == "SRK"{
             currentMoviesList = srkML
+            
         }
         else{
             currentMoviesList = imraanML
