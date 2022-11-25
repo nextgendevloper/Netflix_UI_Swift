@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="NavBar" customModule="AddWatermark" customModuleProvider="target">
+            <connections>
+                <outlet property="leftButton" destination="ghK-0m-5dQ" id="Zar-YT-pSF"/>
+                <outlet property="rightButton" destination="dlB-FW-nmz" id="EuD-bo-j00"/>
+                <outlet property="title" destination="pha-Rb-L5c" id="0Hh-HQ-qKM"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="486" height="44"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="M5w-VS-UNo">
+                    <rect key="frame" x="0.0" y="0.0" width="486" height="44"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="DkK-L4-1Ld">
+                            <rect key="frame" x="55" y="0.0" width="376" height="41"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pha-Rb-L5c" customClass="VerticalAlignLabel" customModule="IOS_CommonUtil">
+                                    <rect key="frame" x="0.0" y="0.0" width="376" height="41"/>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <color key="textColor" name="DefaultColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </stackView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QOD-pg-wuK" userLabel="RightButton">
+                            <rect key="frame" x="396" y="0.0" width="80" height="44"/>
+                            <subviews>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dlB-FW-nmz" customClass="PTextButton" customModule="AddWatermark" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="0.0" width="80" height="44"/>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </view>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="dlB-FW-nmz" firstAttribute="width" secondItem="QOD-pg-wuK" secondAttribute="width" priority="700" id="8Vd-3y-bom"/>
+                                <constraint firstItem="dlB-FW-nmz" firstAttribute="height" secondItem="QOD-pg-wuK" secondAttribute="height" id="OmN-oL-odx"/>
+                                <constraint firstAttribute="width" constant="80" id="S6E-r0-gb4"/>
+                                <constraint firstItem="dlB-FW-nmz" firstAttribute="centerY" secondItem="QOD-pg-wuK" secondAttribute="centerY" id="SQo-9s-Tnc"/>
+                                <constraint firstAttribute="trailing" secondItem="dlB-FW-nmz" secondAttribute="trailing" id="v7H-36-5hA"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3P0-VL-RTy" userLabel="LeftButton">
+                            <rect key="frame" x="0.0" y="0.0" width="80" height="44"/>
+                            <subviews>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ghK-0m-5dQ" customClass="ImageButton" customModule="AddWatermark" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" secondItem="ghK-0m-5dQ" secondAttribute="height" multiplier="1:1" id="U5T-xO-I8O"/>
+                                    </constraints>
+                                </view>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="ghK-0m-5dQ" firstAttribute="centerY" secondItem="3P0-VL-RTy" secondAttribute="centerY" id="C5x-UJ-qiC"/>
+                                <constraint firstAttribute="leading" secondItem="ghK-0m-5dQ" secondAttribute="leading" id="Prk-RU-xMf"/>
+                                <constraint firstItem="ghK-0m-5dQ" firstAttribute="height" secondItem="3P0-VL-RTy" secondAttribute="height" id="Qmr-RC-SND"/>
+                                <constraint firstAttribute="width" constant="80" id="yLv-Do-e5B"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="QOD-pg-wuK" firstAttribute="top" secondItem="M5w-VS-UNo" secondAttribute="top" id="76D-Us-7Yu"/>
+                        <constraint firstItem="3P0-VL-RTy" firstAttribute="top" secondItem="M5w-VS-UNo" secondAttribute="top" id="Aoq-TX-hJu"/>
+                        <constraint firstAttribute="bottom" secondItem="DkK-L4-1Ld" secondAttribute="bottom" constant="3" id="HWf-rq-ruV"/>
+                        <constraint firstAttribute="bottom" secondItem="QOD-pg-wuK" secondAttribute="bottom" id="ITM-vF-XXb"/>
+                        <constraint firstItem="3P0-VL-RTy" firstAttribute="leading" secondItem="M5w-VS-UNo" secondAttribute="leading" id="Sbn-sh-WEg"/>
+                        <constraint firstAttribute="trailing" secondItem="DkK-L4-1Ld" secondAttribute="trailing" constant="55" id="YFZ-sN-Mj6"/>
+                        <constraint firstAttribute="bottom" secondItem="3P0-VL-RTy" secondAttribute="bottom" id="hdX-UJ-moK"/>
+                        <constraint firstAttribute="trailing" secondItem="QOD-pg-wuK" secondAttribute="trailing" constant="10" id="o6o-nI-3rB"/>
+                        <constraint firstItem="DkK-L4-1Ld" firstAttribute="top" secondItem="M5w-VS-UNo" secondAttribute="top" id="rjw-nm-hQB"/>
+                        <constraint firstItem="DkK-L4-1Ld" firstAttribute="leading" secondItem="M5w-VS-UNo" secondAttribute="leading" constant="55" id="x9B-ph-byf"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="M5w-VS-UNo" firstAttribute="width" secondItem="i5M-Pr-FkT" secondAttribute="width" id="0co-TC-nxR"/>
+                <constraint firstItem="M5w-VS-UNo" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" id="63C-d1-80f"/>
+                <constraint firstItem="M5w-VS-UNo" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="Jwh-Gf-mNe"/>
+                <constraint firstItem="M5w-VS-UNo" firstAttribute="height" secondItem="i5M-Pr-FkT" secondAttribute="height" id="kBx-K1-383"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="178.2608695652174" y="63.616071428571423"/>
+        </view>
+    </objects>
+    <resources>
+        <namedColor name="DefaultColor">
+            <color red="0.98400002717971802" green="0.98799997568130493" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
