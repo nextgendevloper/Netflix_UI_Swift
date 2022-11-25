@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "OK";
+"_Done" = "Feito";
+"_Cancel" = "Cancelar";
+"_Back" = "De volta";
+"_OpenSettings" = "Abra o aplicativo Configurações.";
+"_Loading" = "Carregando...";
+"_Close" = "Perto";
+"_Alert" = "Alerta";
+"_TryAgain" = "Tente novamente";
+"_Later" = "Mais tarde";
+"_Font" = "Pia batismal";
+"_Transparency" = "Transparência";
+"_Fonts" = "Fonte";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Cor";
+"_COLOR" = "Cor";
+"_Colors" = "Cores";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradiente";
+"_Linear" = "Linear";
+"_Radial" = "Radial";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Parece que suas configurações de privacidade estão nos impedindo de acessar sua biblioteca de fotos para buscar fotos. Você pode corrigir isso fazendo o seguinte:";
+"_askForPhotoPermissionChange_step1_" = "Toque no botão Abrir configurações abaixo para abrir o aplicativo Configurações.";
+"_askForPhotoPermissionChange_step3_" = "Abra este aplicativo e tente novamente.";
+"_askForPhotoPermissionChange_step2_" = "Toque em Fotos e selecione Todas as fotos ou Fotos selecionadas";
+"_askForMusicPermissionChange_main_" = "Parece que suas configurações de privacidade estão nos impedindo de acessar sua Biblioteca de músicas para buscar músicas. Você pode corrigir isso fazendo o seguinte:";
+"_askForMusicPermissionChange_step1_" = "Toque no botão Abrir configurações abaixo para abrir o aplicativo Configurações.";
+"_askForMusicPermissionChange_step3_" = "Abra este aplicativo e tente novamente.";
+"_askForMusicPermissionChange_step2_" = "Ligue a chave seletora na frente do Media & Apple Music";
+"_askForNotificationPermissionChange_main_" = "Parece que suas configurações de privacidade estão nos impedindo de notificá-lo sobre o status do seu projeto. Você pode corrigir isso fazendo o seguinte:";
+"_askForNotificationPermissionChange_step1_" = "Toque no botão Abrir configurações abaixo para abrir o aplicativo Configurações.";
+"_askForNotificationPermissionChange_step3_" = "Abra este aplicativo e tente novamente.";
+"_askForNotificationPermissionChange_step2_" = "Toque na notificação e alternar ON mudar para permitir que a notificação";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Não Internet";
+"_NoInternet_Body" = " algo deu errado. Por favor verifique sua conexão com a internet e tente novamente.";
+"_ErrorOcuured" = "Ocorreu um erro";
+"_ErrorWhileSaving" = "Erro enquanto salvar";
+"_AppNotInstalled" = "App não instalado.";
+"_AppNotInstalled_Body"= "Baixe o aplicativo da appstore primeiro e tente novamente.";
+"_SomethingWentWrongPleaseTryAgain" = "Algo deu errado. Por favor, tente novamente.";///
+"_PermissionError" = "Acesso não disponível";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Salvo com sucesso";
+"_Audio_Writing_Failed" = "Não é possível decodificar o áudio (pode ser um arquivo não suportado ou de interrupção)";
+"_Metal_Configuration_Error" = "Opa! algo deu errado. Por favor, tente novamente.";
+"_VIDEO_ERROR" = "Nenhum vídeo suportado foi encontrado";
+"_IMAGE_ERROR" = "Erro ao obter a imagem. Por favor, tente novamente.";
+// Text
+"_EnterTextToProceed" = "Por favor, digite algum texto ..";
+"_Text" = "Texto";
+"_TextEdit" = "Editar texto";
+// VIDEO
+"_TimelapseVideoError_body" = "Este vídeo é do tipo timelapse. Selecione outro para continuar";
+"_TimelapseVideoError_title" = "Vídeo TimeLapse";
+"_iCloudVideoError_body" = "Este vídeo está disponível no iCloud. Faça o download primeiro do iCloud para continuar";
+"_iCloudVideoError_title" = "Vídeo do iCloud";
+"_UE_SelectAnother" = "Erro desconhecido. Por favor selecione outro vídeo";
+"_NoSupportedVideoFound" = "Nenhum vídeo suportado foi encontrado";
+//IMAGE
+"_Image" = "Imagem";
+"_IE_TryAgain" = "Erro ao obter a imagem. Por favor, tente novamente.";
+//MUSIC
+"_Music" = "Música";
+"_ImportFromItunes" = "Importar do iTunes";
+"_AudioDecodingFailed" = "Não é possível decodificar o áudio (pode ser um arquivo não suportado ou de interrupção)";
+"_SongNotAvailable" = "Canção não disponível";
+"_SongAdded" = "Música adicionada";
+"_SongDRMProtected_Body1" = "Esta música é DRM Protected by Apple music";
+"_SongDRMProtected_Body2" = " Por favor escolha música offline";
+"_SongLoaded"="Música carregada";
+// ERRORS
+"_ErrorInSelection" = "Erro na seleção";
+"_Error" = "Error";
+"_NoInternet_Body" = " algo deu errado. Por favor verifique sua conexão com a internet e tente novamente.";
+"_ErrorWhileSaving" = "Erro enquanto salvar";
+"_SWW_TryAgain" = "Opa! algo deu errado. Por favor, tente novamente.";
+// IAP
+"_RestoreSuccessfully" = "Restaurado com sucesso.";
+"_NoWatermark" = "* Sem marca de água";
+"_NoAds" = "Sem anúncios";
+"_PrivacyPolicy" = "Política de Privacidade";
+"_SubscriptionDetails" = "Subscription Details";
+"_TernsAndConditions" = "Termos e Condições";
+"_Restore" = "Restaurar";
+"_GoPro" = "Ir pro";
+"_OneTime" = "One Time";
+// FEEDBACK
+"_DidYouLikeYour" = "Você gosta do seu Textro";
+"_FeedbackBody_HowYoufeel" = "Tentamos tornar este aplicativo útil e fácil de usar. Por favor, selecione como você se sente.";
+"_Good" = "Boa";
+"_Bad" = "Mau";
+"_Excellent" = "Excellent";
+"_Privacy" = "Privacidade";
+"_NeedHelp" = "Preciso de ajuda?";
+"_FeedbackBody_DontWorry" = "Não se preocupe, estamos aqui para ajudá-lo.";
+"_GiveSuggestion" = "Dê uma sugestão";
+"_GoodDescription" = "Ou talvez, peça um novo recurso.";
+"_ThankYou" = "Obrigado!";
+"_ExcellentDescription" = "Você vai escrever uma revisão na App Store?";
+"_ASK_FOR_HELP" = "Peça por ajuda";
+"_Send" = "send";
+"_ReviewNow" = "Revisar agora";
+"_TapToRemove" = "Toque para remover";
+"_MoreInHouseApps"  = "Mais aplicativos";
+// EMAIL
+"_EmailServiceNotAvailable" = " Serviço não disponível agora.";
+"_WriteYourSuggestionBelow" = "Escreva seus problemas ou sugestões aqui ..";
+"_media_report_title" = "Você pode adicionar esta mídia como um anexo ?. Isso realmente nos ajudará a entender melhor o problema.";
+"_report_us" = "Denunciar este problema";
+"_media_error_body" = "Algo deu errado ao obter a mídia.";
+"_media_error_title" = "Nenhuma mídia encontrada.";
+// onboard
+"_AP_PhotoLibrary" = "Precisamos de permissão para acessar sua biblioteca de fotos para ler e gravar mídia em seu dispositivo";
+"_Notification" = "Notificação";
+"_AP_Notification" = "Precisamos de permissão para poder notificá-lo do aplicativo sobre o status da tarefa";
+"_PhotoLibrary" = "Biblioteca de fotos";
+"_Allow_Access" = "Permitir acesso";
+// menu
+"_Menu" = "Cardápio";
+"_Rate_Us" = "Nos avalie";
+"_More_Apps" = "Mais aplicativos";
+"_Share_App" = "Compartilhar";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Nenhum designs encontrado para transfer";
+"_TranferFailed" = "A transferência falhou";
+"_IncorrectZip" = "Zip incorreto";
+"_RestoreFailed" = "Falha na restauração. Tente novamente.";
+"_Success" = "sucesso";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Imagens estão faltando. Alguns designs podem não ser exibidos corretamente";
+"_TransferDesigns" = "Transferir designs";
+"_RestoreDesigns" = "Restaurar designs";

@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "ตกลง";
+"_Done" = "Done การ";
+"_Cancel" = "ยกเลิก";
+"_Back" = "กลับ";
+"_OpenSettings" = "เปิดแอพการตั้งค่า";
+"_Loading" = "กำลังโหลด ...";
+"_Close" = "ปิด";
+"_Alert" = "Alert";
+"_TryAgain" = "ลองอีกครั้ง";
+"_Later" = "ต่อมา";
+"_Font" = "ตัวอักษร";
+"_Transparency" = "ความโปร่งใส";
+"_Fonts" = "แบบอักษร";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "สี";
+"_COLOR" = "สี";
+"_Colors" = "สี";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "การไล่ระดับสี";
+"_Linear" = "เชิงเส้น";
+"_Radial" = "Radial การ";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "ดูเหมือนว่าการตั้งค่าความเป็นส่วนตัวของคุณจะป้องกันไม่ให้เราเข้าถึงคลังรูปภาพของคุณเพื่อดึงรูปภาพ คุณสามารถแก้ไขได้โดยทำดังต่อไปนี้:";
+"_askForPhotoPermissionChange_step1_" = "แตะปุ่มเปิดการตั้งค่าด้านล่างเพื่อเปิดแอปการตั้งค่า";
+"_askForPhotoPermissionChange_step3_" = "เปิดแอพนี้แล้วลองอีกครั้ง";
+"_askForPhotoPermissionChange_step2_" = "แตะที่รูปภาพแล้วเลือกรูปภาพทั้งหมดหรือรูปภาพที่เลือก";
+"_askForMusicPermissionChange_main_" = "ดูเหมือนว่าการตั้งค่าความเป็นส่วนตัวของคุณทำให้เราไม่สามารถเข้าถึงคลังเพลงของคุณเพื่อดึงข้อมูลเพลงได้ คุณสามารถแก้ไขได้โดยทำสิ่งต่อไปนี้:";
+"_askForMusicPermissionChange_step1_" = "แตะปุ่มเปิดการตั้งค่าด้านล่างเพื่อเปิดแอปการตั้งค่า";
+"_askForMusicPermissionChange_step3_" = "เปิดแอพนี้แล้วลองอีกครั้ง";
+"_askForMusicPermissionChange_step2_" = "เปิดสวิตช์สลับที่ด้านหน้าของ Media & Apple Music";
+"_askForNotificationPermissionChange_main_" = "ดูเหมือนว่าการตั้งค่าความเป็นส่วนตัวทำให้เราไม่สามารถแจ้งสถานะโครงการของคุณได้ คุณสามารถแก้ไขได้โดยทำดังต่อไปนี้:";
+"_askForNotificationPermissionChange_step1_" = "แตะปุ่มเปิดการตั้งค่าด้านล่างเพื่อเปิดแอปการตั้งค่า";
+"_askForNotificationPermissionChange_step3_" = "เปิดแอพนี้แล้วลองอีกครั้ง";
+"_askForNotificationPermissionChange_step2_" = "แตะที่การแจ้งเตือนและเปิดสวิตช์เพื่ออนุญาตการแจ้งเตือน";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "ยังไม่มีการ อินเทอร์เน็ต";
+"_NoInternet_Body" = " บางอย่างผิดพลาด. โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณแล้วลองอีกครั้ง";
+"_ErrorOcuured" = "Error Occured";
+"_ErrorWhileSaving" = "เกิดข้อผิดพลาดขณะบันทึก";
+"_AppNotInstalled" = "ไม่ได้ติดตั้งแอป";
+"_AppNotInstalled_Body"= "โปรดดาวน์โหลดแอพจาก appstore ก่อนแล้วลองอีกครั้ง";
+"_SomethingWentWrongPleaseTryAgain" = "บางอย่างผิดพลาด. กรุณาลองอีกครั้ง.";///
+"_PermissionError" = "Access ไม่สามารถใช้ได้";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "บันทึกเรียบร้อยแล้ว";
+"_Audio_Writing_Failed" = "ไม่สามารถถอดรหัส Audio (อาจเป็นไฟล์ที่ไม่รองรับหรือเสียหาย)";
+"_Metal_Configuration_Error" = "อ๊ะ! บางอย่างผิดพลาด. กรุณาลองอีกครั้ง.";
+"_VIDEO_ERROR" = "ไม่พบวิดีโอที่รองรับ";
+"_IMAGE_ERROR" = "เกิดข้อผิดพลาดขณะรับภาพ กรุณาลองอีกครั้ง.";
+// Text
+"_EnterTextToProceed" = "กรุณากรอกข้อความ ..";
+"_Text" = "text";
+"_TextEdit" = "แก้ไขข้อความ";
+// VIDEO
+"_TimelapseVideoError_body" = "วิดีโอนี้เป็น timelapse type.Please เลือกอื่นเพื่อดำเนินการต่อ";
+"_TimelapseVideoError_title" = "วิดีโอ TimeLapse";
+"_iCloudVideoError_body" = "วิดีโอนี้มีให้ใน iCloud กรุณาดาวน์โหลดจาก iCloud ก่อนเพื่อดำเนินการต่อ";
+"_iCloudVideoError_title" = "วิดีโอ iCloud";
+"_UE_SelectAnother" = "ข้อผิดพลาดที่ไม่รู้จัก. กรุณาเลือกวิดีโออื่น";
+"_NoSupportedVideoFound" = "ไม่พบวิดีโอที่รองรับ";
+//IMAGE
+"_Image" = "ภาพ";
+"_IE_TryAgain" = "เกิดข้อผิดพลาดขณะรับภาพ กรุณาลองอีกครั้ง.";
+//MUSIC
+"_Music" = "โน้ตเพลง";
+"_ImportFromItunes" = "นำเข้าจาก iTunes";
+"_AudioDecodingFailed" = "ไม่สามารถถอดรหัส Audio (อาจเป็นไฟล์ที่ไม่รองรับหรือเสียหาย)";
+"_SongNotAvailable" = "เพลงไม่ได้ ที่มีจำหน่าย";
+"_SongAdded" = "เพิ่มเพลงแล้ว";
+"_SongDRMProtected_Body1" = "เพลงนี้คือ DRM Protected โดยเพลง Apple";
+"_SongDRMProtected_Body2" = " โปรดเลือกเพลงออฟไลน์";
+"_SongLoaded"="เพลง Loaded";
+// ERRORS
+"_ErrorInSelection" = "ข้อผิดพลาดในการเลือก";
+"_Error" = "ข้อผิดพลาด";
+"_NoInternet_Body" = " บางอย่างผิดพลาด. โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณแล้วลองอีกครั้ง";
+"_ErrorWhileSaving" = "เกิดข้อผิดพลาดขณะบันทึก";
+"_SWW_TryAgain" = "อ๊ะ! บางอย่างผิดพลาด. กรุณาลองอีกครั้ง.";
+// IAP
+"_RestoreSuccessfully" = "กู้คืนสำเร็จแล้ว";
+"_NoWatermark" = "* ไม่มีลายน้ำ";
+"_NoAds" = "ไม่มีโฆษณา";
+"_PrivacyPolicy" = "นโยบายความเป็นส่วนตัว";
+"_SubscriptionDetails" = "รายละเอียดการสมัครสมาชิก";
+"_TernsAndConditions" = "ข้อกำหนดและเงื่อนไข";
+"_Restore" = "ฟื้นฟู";
+"_GoPro" = "ไปโปร";
+"_OneTime" = "ครั้งหนึ่ง";
+// FEEDBACK
+"_DidYouLikeYour" = "คุณชอบ Textro ของคุณหรือไม่";
+"_FeedbackBody_HowYoufeel" = "เราพยายามทำให้แอพนี้มีประโยชน์และใช้งานง่าย โปรดเลือกความรู้สึกของคุณ";
+"_Good" = "ดี";
+"_Bad" = "Bad";
+"_Excellent" = "ยอดเยี่ยม";
+"_Privacy" = "ความเป็นส่วนตัว";
+"_NeedHelp" = "ต้องการความช่วยเหลือ?";
+"_FeedbackBody_DontWorry" = "ไม่ต้องกังวลเราพร้อมที่จะช่วยเหลือคุณ";
+"_GiveSuggestion" = "ให้คำแนะนำ";
+"_GoodDescription" = "ปพลิเคชันผู้สนับสนุน";
+"_ThankYou" = "ขอบคุณ!";
+"_ExcellentDescription" = "คุณจะเขียนรีวิวใน App Store หรือไม่";
+"_ASK_FOR_HELP" = "ขอความช่วยเหลือ";
+"_Send" = "ส่ง";
+"_ReviewNow" = "ทบทวน ตอนนี้";
+"_TapToRemove" = "แตะเพื่อลบ";
+"_MoreInHouseApps"  = "แอพเพิ่มเติม";
+// EMAIL
+"_EmailServiceNotAvailable" = " ไม่สามารถใช้บริการได้ในขณะนี้";
+"_WriteYourSuggestionBelow" = "เขียนปัญหาหรือข้อเสนอแนะของคุณที่นี่ ..";
+"_media_report_title" = "คุณสามารถเพิ่มสื่อนี้เป็นไฟล์แนบได้หรือไม่?. จริงๆมันจะช่วยให้เราดีกว่าที่จะเข้าใจปัญหา";
+"_report_us" = "รายงานปัญหานี้";
+"_media_error_body" = "สิ่งที่ผิดพลาดในขณะที่รับสื่อ";
+"_media_error_title" = "ไม่พบสื่อ";
+// onboard
+"_AP_PhotoLibrary" = "เราจำเป็นต้องได้รับอนุญาตในการเข้าถึงคลังรูปภาพของคุณเพื่ออ่านและเขียนสื่อลงในอุปกรณ์ของคุณ";
+"_Notification" = "การแจ้งเตือน";
+"_AP_Notification" = "เราต้องได้รับอนุญาตเพื่อแจ้งให้คุณทราบจากแอปเกี่ยวกับสถานะงาน";
+"_PhotoLibrary" = "ห้องสมุดภาพ";
+"_Allow_Access" = "อนุญาตการเข้าถึง";
+// menu
+"_Menu" = "เมนู";
+"_Rate_Us" = "ให้คะแนนเรา";
+"_More_Apps" = "แอพเพิ่มเติม";
+"_Share_App" = "หุ้น";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "ไม่พบการออกแบบที่จะโอน";
+"_TranferFailed" = "การโอนล้มเหลว";
+"_IncorrectZip" = "Zip ไม่ถูกต้อง";
+"_RestoreFailed" = "เรียกคืนล้มเหลวลองอีกครั้ง";
+"_Success" = "ความสำเร็จ";
+"_ImagesMissingDesignsMayNotDisplayProper" = "รูปภาพหายไป การออกแบบบางอย่างอาจแสดงผลไม่ถูกต้อง";
+"_TransferDesigns" = "การออกแบบการโอน";
+"_RestoreDesigns" = "คืนค่าการออกแบบ";

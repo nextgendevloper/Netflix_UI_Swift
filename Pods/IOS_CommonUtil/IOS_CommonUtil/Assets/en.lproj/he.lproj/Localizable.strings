@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "בסדר";
+"_Done" = "בוצע";
+"_Cancel" = "לבטל";
+"_Back" = "חזור";
+"_OpenSettings" = "פתח את אפליקציית ההגדרות.";
+"_Loading" = "הַעֲמָסָה";
+"_Close" = "Close";
+"_Alert" = "Alert";
+"_TryAgain" = "נסה שוב";
+"_Later" = "יותר מאוחר";
+"_Font" = "פוֹנט";
+"_Transparency" = "שקיפות";
+"_Fonts" = "גופנים";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "צבע";
+"_COLOR" = "צבע";
+"_Colors" = "צבעים";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradient";
+"_Linear" = "ליניארי";
+"_Radial" = "רדיאלי";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "נראה שהגדרות הפרטיות שלך מונעות מאיתנו גישה לספריית התמונות שלך כדי להביא תמונות. תוכל לתקן זאת על ידי ביצוע הפעולות הבאות:";
+"_askForPhotoPermissionChange_step1_" = "גע בלחצן פתח הגדרות למטה כדי לפתוח את אפליקציית ההגדרות.";
+"_askForPhotoPermissionChange_step3_" = "פתח את היישום הזה ונסה שוב.";
+"_askForPhotoPermissionChange_step2_" = "הקש על תמונות ובחר את כל התמונות או התמונות שנבחרו ";
+"_askForMusicPermissionChange_main_" = "נראה כי הגדרות הפרטיות שלך מונעות מאיתנו לגשת לספריית המוסיקה שלך להביא מוסיקה. תוכל לתקן זאת על ידי ביצוע הפעולות הבאות:";
+"_askForMusicPermissionChange_step1_" = "גע בלחצן פתח הגדרות למטה כדי לפתוח את אפליקציית ההגדרות.";
+"_askForMusicPermissionChange_step3_" = "פתח את היישום הזה ונסה שוב.";
+"_askForMusicPermissionChange_step2_" = "הפעל שהמתג מול  Media & אפל Music ";
+"_askForNotificationPermissionChange_main_" = "נראה כי הגדרות הפרטיות שלך מונעות מאיתנו להודיע לך על סטטוס הפרויקט שלך. תוכל לתקן זאת על ידי ביצוע הפעולות הבאות:";
+"_askForNotificationPermissionChange_step1_" = "גע בלחצן פתח הגדרות למטה כדי לפתוח את אפליקציית ההגדרות.";
+"_askForNotificationPermissionChange_step3_" = "פתח את היישום הזה ונסה שוב.";
+"_askForNotificationPermissionChange_step2_" = "הקש על Notification ו- ON Toggle לעבור לאפשר ההודעה";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "אין אינטרנט";
+"_NoInternet_Body" = " משהו השתבש. בדוק את חיבור האינטרנט שלך ונסה שוב.";
+"_ErrorOcuured" = "אירעה שגיאה";
+"_ErrorWhileSaving" = "שגיאה בעת שמירה";
+"_AppNotInstalled" = "האפליקציה לא הותקנה.";
+"_AppNotInstalled_Body"= "אנא הורד את האפליקציה תחילה מ- appstore ונסה שוב.";
+"_SomethingWentWrongPleaseTryAgain" = "משהו השתבש. בבקשה נסה שוב.";///
+"_PermissionError" = "גישה לא זמין";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "נשמר בהצלחה";
+"_Audio_Writing_Failed" = "לא ניתן לפענח אודיו (ייתכן שאינו נתמך או קובץ פגום)";
+"_Metal_Configuration_Error" = "אופס! משהו השתבש. בבקשה נסה שוב.";
+"_VIDEO_ERROR" = "לא נמצא סרטון נתמך";
+"_IMAGE_ERROR" = "שגיאה בעת קבלת תמונה. בבקשה נסה שוב.";
+// Text
+"_EnterTextToProceed" = "נא להזין טקסט כלשהו ..";
+"_Text" = "טקסט";
+"_TextEdit" = "ערוך טקסט";
+// VIDEO
+"_TimelapseVideoError_body" = "סרטון זה הוא מסוג זמן זמן. אנא בחר אחר להמשך";
+"_TimelapseVideoError_title" = "סרטון TimeLapse";
+"_iCloudVideoError_body" = "סרטון זה זמין ב- iCloud. אנא הורד תחילה מ- iCloud כדי להמשיך";
+"_iCloudVideoError_title" = "iCloud וידאו";
+"_UE_SelectAnother" = "שגיאה לא ידועה. אנא בחר סרטון אחר";
+"_NoSupportedVideoFound" = "לא נמצא סרטון נתמך";
+//IMAGE
+"_Image" = "תמונה";
+"_IE_TryAgain" = "שגיאה בעת קבלת תמונה. בבקשה נסה שוב.";
+//MUSIC
+"_Music" = "מוסיקה";
+"_ImportFromItunes" = "ייבא מ- ITunes";
+"_AudioDecodingFailed" = "לא ניתן לפענח אודיו (ייתכן שאינו נתמך או קובץ פגום)";
+"_SongNotAvailable" = "השיר לא זמין";
+"_SongAdded" = "נוסף שיר";
+"_SongDRMProtected_Body1" = "השיר הזה מוגן באמצעות DRM במוזיקה של אפל";
+"_SongDRMProtected_Body2" = " בחר מוזיקה לא מקוונת";
+"_SongLoaded"="טעון השיר";
+// ERRORS
+"_ErrorInSelection" = "שגיאה בבחירה";
+"_Error" = "שגיאה";
+"_NoInternet_Body" = " משהו השתבש. בדוק את חיבור האינטרנט שלך ונסה שוב.";
+"_ErrorWhileSaving" = "שגיאה בעת שמירה";
+"_SWW_TryAgain" = "אופס! משהו השתבש. בבקשה נסה שוב.";
+// IAP
+"_RestoreSuccessfully" = "שוחזר בהצלחה.";
+"_NoWatermark" = "* אין סימן מים";
+"_NoAds" = "מודעות לא";
+"_PrivacyPolicy" = "מדיניות פרטיות";
+"_SubscriptionDetails" = "פרטי מנוי";
+"_TernsAndConditions" = "תנאים ומצב";
+"_Restore" = "לשחזר";
+"_GoPro" = "Go Pro";
+"_OneTime" = "פעם אחת";
+// FEEDBACK
+"_DidYouLikeYour" = "האם אתה אוהב שלך Textro";
+"_FeedbackBody_HowYoufeel" = "ניסינו לעשות את היישום הזה מועיל וקל לשימוש. אנא בחר כיצד אתה מרגיש.";
+"_Good" = "טוב";
+"_Bad" = "רע";
+"_Excellent" = "מצוין";
+"_Privacy" = "פרטיות";
+"_NeedHelp" = "זקוק לעזרה?";
+"_FeedbackBody_DontWorry" = "אל תדאג, אנחנו כאן כדי לעזור לך.";
+"_GiveSuggestion" = "Give Suggestion";
+"_GoodDescription" = "או אולי, לבקש תכונה חדשה.";
+"_ThankYou" = "תודה!";
+"_ExcellentDescription" = "האם תכתוב סקירה ב- App Store?";
+"_ASK_FOR_HELP" = "לבקש עזרה";
+"_Send" = "לשלוח";
+"_ReviewNow" = "סקור עכשיו";
+"_TapToRemove" = "הקש כדי להסיר";
+"_MoreInHouseApps"  = "עוד אפליקציות";
+// EMAIL
+"_EmailServiceNotAvailable" = " השירות אינו זמין כעת.";
+"_WriteYourSuggestionBelow" = "כתוב כאן את הבעיות או את ההצעות שלך ..";
+"_media_report_title" = "Can you please add this media as an attachment?. It will really help us better to understand the issue .";
+"_report_us" = "דווח על בעיה זו";
+"_media_error_body" = "Something went wrong while getting media.";
+"_media_error_title" = "לא נמצא מדיה.";
+// onboard
+"_AP_PhotoLibrary" = "אנו זקוקים להרשאה כדי לגשת לספריית התמונות שלך כדי לקרוא ולכתוב מדיה למכשיר שלך";
+"_Notification" = "Notification";
+"_AP_Notification" = "אנו זקוקים להרשאה כדי שנוכל להודיע לך מהאפליקציה על מצב המשימה";
+"_PhotoLibrary" = "ספריית תמונות";
+"_Allow_Access" = "אפשר גישה";
+// menu
+"_Menu" = "תפריט";
+"_Rate_Us" = "דרג אותנו";
+"_More_Apps" = "עוד אפליקציות";
+"_Share_App" = "שתף";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "לא נמצאו עיצובים להעברה";
+"_TranferFailed" = "ההעברה נכשלה";
+"_IncorrectZip" = "קובץ שגוי";
+"_RestoreFailed" = "לשחזר נכשלה. נסה שוב.";
+"_Success" = "הצלחה";
+"_ImagesMissingDesignsMayNotDisplayProper" = "התמונות חסרות. ייתכן שחלק מהעיצובים לא יוצגו כראוי";
+"_TransferDesigns" = "העברת עיצובים";
+"_RestoreDesigns" = "לשחזר עיצובים";

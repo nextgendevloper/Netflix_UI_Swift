@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "Okay";
+"_Done" = "Færdig";
+"_Cancel" = "Afbestille";
+"_Back" = "Tilbage";
+"_OpenSettings" = "Åbn appen Indstillinger.";
+"_Loading" = "Indlæser...";
+"_Close" = "Tæt";
+"_Alert" = "Alert";
+"_TryAgain" = "Prøv igen";
+"_Later" = "Senere";
+"_Font" = "Skrifttype";
+"_Transparency" = "Gennemsigtighed";
+"_Fonts" = "Skrifttyper";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Farve";
+"_COLOR" = "Farve";
+"_Colors" = "farver";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "gradient";
+"_Linear" = "Lineær";
+"_Radial" = "Radial";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Det ser ud til, at dine privatlivsindstillinger forhindrer os i at få adgang til dit fotobibliotek for at hente fotos. Du kan løse dette ved at gøre følgende:";
+"_askForPhotoPermissionChange_step1_" = "Tryk på knappen Åbn indstillinger nedenfor for at åbne appen Indstillinger.";
+"_askForPhotoPermissionChange_step3_" = "Åbn denne app, og prøv igen.";
+"_askForPhotoPermissionChange_step2_" = "Tryk på Fotos, og vælg Alle fotos eller Valgte fotos";
+"_askForMusicPermissionChange_main_" = "Det ser ud til, at dine personlige indstillinger forhindrer os i at få adgang til dit musikbibliotek for at hente musik. Du kan løse dette ved at gøre følgende:";
+"_askForMusicPermissionChange_step1_" = "Tryk på knappen Åbn indstillinger nedenfor for at åbne appen Indstillinger.";
+"_askForMusicPermissionChange_step3_" = "Åbn denne app, og prøv igen.";
+"_askForMusicPermissionChange_step2_" = "Tænd for afbryderen foran Media & Apple Music";
+"_askForNotificationPermissionChange_main_" = "Det ligner dine privatindstillinger forhindrer os fra at underrette dig om dit projekt status. Du kan løse dette ved at gøre følgende:";
+"_askForNotificationPermissionChange_step1_" = "Tryk på knappen Åbn indstillinger nedenfor for at åbne appen Indstillinger.";
+"_askForNotificationPermissionChange_step3_" = "Åbn denne app, og prøv igen.";
+"_askForNotificationPermissionChange_step2_" = "Tryk på Underretning og Toggle ON skifte til tillade anmeldelsen";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Ingen internet";
+"_NoInternet_Body" = " noget gik galt. Kontroller din internetforbindelse og prøv igen.";
+"_ErrorOcuured" = "Fejl opstået";
+"_ErrorWhileSaving" = "Fejl under opbevaring";
+"_AppNotInstalled" = "Appen er ikke installeret.";
+"_AppNotInstalled_Body"= "Download først appen fra appstore, og prøv igen.";
+"_SomethingWentWrongPleaseTryAgain" = "Noget gik galt. Prøv igen.";///
+"_PermissionError" = "Adgang ikke tilgængelig";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Gemt Succesly";
+"_Audio_Writing_Failed" = "Kan ikke afkode lyd (kan være understøttet eller korrupt fil)";
+"_Metal_Configuration_Error" = "Ups! noget gik galt. Prøv igen.";
+"_VIDEO_ERROR" = "Ingen understøttet video fundet";
+"_IMAGE_ERROR" = "Fejl under hentning af billede. Prøv igen.";
+// Text
+"_EnterTextToProceed" = "Indtast venligst nogle tekst ..";
+"_Text" = "Tekst";
+"_TextEdit" = "Rediger tekst";
+// VIDEO
+"_TimelapseVideoError_body" = "Denne video er af typen timelapse. Vælg en anden for at fortsætte";
+"_TimelapseVideoError_title" = "TimeLapse-video";
+"_iCloudVideoError_body" = "Denne video er tilgængelig i iCloud. Download først fra iCloud for at fortsætte";
+"_iCloudVideoError_title" = "iCloud-video";
+"_UE_SelectAnother" = "Ukendt fejl. Vælg en anden video";
+"_NoSupportedVideoFound" = "Ingen understøttet video fundet";
+//IMAGE
+"_Image" = "Billede";
+"_IE_TryAgain" = "Fejl under hentning af billede. Prøv igen.";
+//MUSIC
+"_Music" = "musik";
+"_ImportFromItunes" = "Importer fra ITunes";
+"_AudioDecodingFailed" = "Kan ikke afkode lyd (kan være understøttet eller korrupt fil)";
+"_SongNotAvailable" = "Sang er ikke tilgængelig";
+"_SongAdded" = "Sang tilføjet";
+"_SongDRMProtected_Body1" = "Denne sang er DRM-beskyttet af Apple-musik";
+"_SongDRMProtected_Body2" = "  Vælg offline musik";
+"_SongLoaded"="Sang indlæst";
+// ERRORS
+"_ErrorInSelection" = "Fejl ved markering";
+"_Error" = "Fejl";
+"_NoInternet_Body" = " noget gik galt. Kontroller din internetforbindelse og prøv igen.";
+"_ErrorWhileSaving" = "Fejl under opbevaring";
+"_SWW_TryAgain" = "Ups! noget gik galt. Prøv igen.";
+// IAP
+"_RestoreSuccessfully" = "Gendannet.";
+"_NoWatermark" = "* Ingen vandmærke";
+"_NoAds" = "Ingen annoncer";
+"_PrivacyPolicy" = "Fortrolighedspolitik";
+"_SubscriptionDetails" = "Abonnementsoplysninger";
+"_TernsAndConditions" = "Regler og vilkår";
+"_Restore" = "Gendan";
+"_GoPro" = "Bliv professionel";
+"_OneTime" = "En gang";
+// FEEDBACK
+"_DidYouLikeYour" = "Kan du lide din Textro";
+"_FeedbackBody_HowYoufeel" = "Vi forsøgte at gøre denne app hjælpsom og nem at bruge. Vælg venligst, hvordan du føler.";
+"_Good" = "god";
+"_Bad" = "Dårlig";
+"_Excellent" = "Fremragende";
+"_Privacy" = "Privatliv";
+"_NeedHelp" = "Brug for hjælp?";
+"_FeedbackBody_DontWorry" = "Bare rolig, vi er her for at hjælpe dig.";
+"_GiveSuggestion" = "Giv forslag";
+"_GoodDescription" = "Eller måske, spørg efter en ny funktion.";
+"_ThankYou" = "Tak skal du have!";
+"_ExcellentDescription" = "Vil du skrive en anmeldelse på App Store?";
+"_ASK_FOR_HELP" = "Bede om hjælp";
+"_Send" = "sende";
+"_ReviewNow" = "Gennemgå nu";
+"_TapToRemove" = "Tryk på for at fjerne";
+"_MoreInHouseApps"  = "Flere apps";
+// EMAIL
+"_EmailServiceNotAvailable" = " Tjenesten er ikke tilgængelig nu.";
+"_WriteYourSuggestionBelow" = "Skriv dine problemer eller forslag her ..";
+"_media_report_title" = "Kan du venligst tilføje dette medie som en vedhæftet fil ?. Det vil virkelig hjælpe os bedre med at forstå problemet.";
+"_report_us" = "Rapporter dette problem";
+"_media_error_body" = "Noget gik galt under hentning af medier.";
+"_media_error_title" = "Ingen medier fundet.";
+// onboard
+"_AP_PhotoLibrary" = "Vi har brug for tilladelse til at få adgang til dit fotobibliotek for at kunne læse og skrive medier til din enhed";
+"_Notification" = "Notifikation";
+"_AP_Notification" = "Vi har brug for tilladelse til at være i stand til at give dig besked fra app om opgaven status";
+"_PhotoLibrary" = "Fotobibliotek";
+"_Allow_Access" = "Tillad adgang";
+// menu
+"_Menu" = "Menu";
+"_Rate_Us" = "Bedøm os";
+"_More_Apps" = "Flere apps";
+"_Share_App" = "Del";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Ingen designs fundet at overføre";
+"_TranferFailed" = "Overførsel mislykkedes";
+"_IncorrectZip" = "Forkert zip";
+"_RestoreFailed" = "Gendan mislykkedes. Forsøg igen.";
+"_Success" = "Succes";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Billeder mangler. Nogle designs vises muligvis ikke korrekt";
+"_TransferDesigns" = "Overførselsdesign";
+"_RestoreDesigns" = "Gendan design";

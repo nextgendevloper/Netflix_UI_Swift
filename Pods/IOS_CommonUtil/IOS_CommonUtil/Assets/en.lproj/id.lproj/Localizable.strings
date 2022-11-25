@@ -1,0 +1,142 @@
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "OKE";
+"_Done" = "Selesai";
+"_Cancel" = "Membatalkan";
+"_Back" = "Kembali";
+"_OpenSettings" = "Buka aplikasi Pengaturan.";
+"_Loading" = "Pemuatan...";
+"_Close" = "Menutup";
+"_Alert" = "Waspada";
+"_TryAgain" = "Coba lagi";
+"_Later" = "Kemudian";
+"_Font" = "Fon";
+"_Transparency" = "Transparansi";
+"_Fonts" = "Font";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Warna";
+"_COLOR" = "Warna";
+"_Colors" = "Warna";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradien";
+"_Linear" = "Linier";
+"_Radial" = "Radial";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Sepertinya pengaturan privasi Anda mencegah kami mengakses Perpustakaan Foto Anda untuk mengambil Foto. Anda dapat memperbaikinya dengan melakukan hal berikut:";
+"_askForPhotoPermissionChange_step1_" = "Sentuh tombol Buka Pengaturan di bawah untuk membuka aplikasi Pengaturan.";
+"_askForPhotoPermissionChange_step3_" = "Buka aplikasi ini dan coba lagi.";
+"_askForPhotoPermissionChange_step2_" = "Tekan pada Foto dan pilih Semua Foto atau Foto Terpilih";
+"_askForMusicPermissionChange_main_" = "Sepertinya pengaturan privasi Anda mencegah kami mengakses Perpustakaan Musik Anda untuk mengambil Musik. Anda dapat memperbaikinya dengan melakukan hal berikut:";
+"_askForMusicPermissionChange_step1_" = "Sentuh tombol Buka Pengaturan di bawah untuk membuka aplikasi Pengaturan.";
+"_askForMusicPermissionChange_step3_" = "Buka aplikasi ini dan coba lagi.";
+"_askForMusicPermissionChange_step2_" = "Nyalakan sakelar sakelar di depan Media & Apple Music";
+"_askForNotificationPermissionChange_main_" = "Sepertinya pengaturan privasi Anda mencegah kami memberi tahu Anda tentang status proyek Anda. Anda dapat memperbaikinya dengan melakukan hal berikut:";
+"_askForNotificationPermissionChange_step1_" = "Sentuh tombol Buka Pengaturan di bawah untuk membuka aplikasi Pengaturan.";
+"_askForNotificationPermissionChange_step3_" = "Buka aplikasi ini dan coba lagi.";
+"_askForNotificationPermissionChange_step2_" = "Ketuk pada Notifikasi dan Toggle ON untuk mengizinkan notifikasi";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Tidak ada internet";
+"_NoInternet_Body" = " ada yang salah. Silakan periksa koneksi internet Anda dan coba lagi.";
+"_ErrorOcuured" = "kesalahan Terjadi";
+"_ErrorWhileSaving" = "Kesalahan saat menyimpan";
+"_AppNotInstalled" = "Aplikasi tidak terpasang.";
+"_AppNotInstalled_Body"= "Silakan unduh aplikasi dari appstore terlebih dahulu dan coba lagi.";
+"_SomethingWentWrongPleaseTryAgain" = "Sesuatu yang tidak beres. Silakan coba lagi.";///
+"_PermissionError" = "Akses tidak tersedia";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Berhasil disimpan";
+"_Audio_Writing_Failed" = "Tidak dapat men-decode Audio (mungkin file tidak didukung atau rusak)";
+"_Metal_Configuration_Error" = "Ups! ada yang salah. Silakan coba lagi.";
+"_VIDEO_ERROR" = "Tidak ditemukan Video yang Didukung";
+"_IMAGE_ERROR" = "Kesalahan saat mengambil gambar. Silakan coba lagi.";
+// Text
+"_EnterTextToProceed" = "Silakan masukkan beberapa teks ..";
+"_Text" = "Teks";
+"_TextEdit" = "Edit Teks";
+// VIDEO
+"_TimelapseVideoError_body" = "Video ini adalah tipe timelapse. Silakan pilih yang lain untuk melanjutkan";
+"_TimelapseVideoError_title" = "Video TimeLapse";
+"_iCloudVideoError_body" = "Video ini tersedia di iCloud. Silakan unduh terlebih dahulu dari iCloud untuk melanjutkan";
+"_iCloudVideoError_title" = "Video iCloud";
+"_UE_SelectAnother" = "Kesalahan yang tidak diketahui. Silakan Pilih Video Lain";
+"_NoSupportedVideoFound" = "Tidak ditemukan Video yang Didukung";
+//IMAGE
+"_Image" = "Gambar";
+"_IE_TryAgain" = "Kesalahan saat mengambil gambar. Silakan coba lagi.";
+//MUSIC
+"_Music" = "Musik";
+"_ImportFromItunes" = "Impor Dari ITunes";
+"_AudioDecodingFailed" = "Tidak dapat men-decode Audio (mungkin file tidak didukung atau rusak)";
+"_SongNotAvailable" = "Lagu Tidak Tersedia";
+"_SongAdded" = "Lagu ditambahkan";
+"_SongDRMProtected_Body1" = "Lagu ini dilindungi DRM oleh musik Apple";
+"_SongDRMProtected_Body2" = "  Silakan pilih musik offline";
+"_SongLoaded"="Lagu Dimuat";
+// ERRORS
+"_ErrorInSelection" = "Kesalahan Dalam Pemilihan";
+"_Error" = "Kesalahan";
+"_NoInternet_Body" = " ada yang salah. Silakan periksa koneksi internet Anda dan coba lagi.";
+"_ErrorWhileSaving" = "Kesalahan saat menyimpan";
+"_SWW_TryAgain" = "Ups! ada yang salah. Silakan coba lagi.";
+// IAP
+"_RestoreSuccessfully" = "Berhasil Dipulihkan.";
+"_NoWatermark" = "* Tidak Ada Tanda Air";
+"_NoAds" = "Tanpa iklan";
+"_PrivacyPolicy" = "Kebijakan Privasi";
+"_SubscriptionDetails" = "Detail Berlangganan";
+"_TernsAndConditions" = "Syarat dan Ketentuan";
+"_Restore" = "Mengembalikan";
+"_GoPro" = "Go Pro";
+"_OneTime" = "Satu kali";
+// FEEDBACK
+"_DidYouLikeYour" = "Apakah Anda suka Textro Anda";
+"_FeedbackBody_HowYoufeel" = "Kami mencoba membuat aplikasi ini bermanfaat dan mudah digunakan. Silakan pilih bagaimana perasaan Anda.";
+"_Good" = "Good";
+"_Bad" = "Buruk";
+"_Excellent" = "Excellent";
+"_Privacy" = "Privasi";
+"_NeedHelp" = "Butuh bantuan?";
+"_FeedbackBody_DontWorry" = "Jangan khawatir, kami di sini untuk membantu Anda.";
+"_GiveSuggestion" = "Beri Saran";
+"_GoodDescription" = "Atau mungkin, minta fitur baru.";
+"_ThankYou" = "Terima kasih!";
+"_ExcellentDescription" = "Apakah Anda akan menulis Ulasan di App Store?";
+"_ASK_FOR_HELP" = "Meminta bantuan";
+"_Send" = "Kirim";
+"_ReviewNow" = "Tinjau Sekarang";
+"_TapToRemove" = "Ketuk Untuk Menghapus";
+"_MoreInHouseApps"  = "Aplikasi Lainnya";
+// EMAIL
+"_EmailServiceNotAvailable" = " Layanan tidak tersedia sekarang.";
+"_WriteYourSuggestionBelow" = "Tulis masalah atau saran Anda di sini ..";
+"_media_report_title" = "Bisakah Anda menambahkan media ini sebagai lampiran ?. Ini akan sangat membantu kami memahami masalahnya dengan lebih baik.";
+"_report_us" = "Laporkan masalah ini";
+"_media_error_body" = "Ada yang salah saat mendapatkan media.";
+"_media_error_title" = "Tidak Ada Media yang Ditemukan.";
+// onboard
+"_AP_PhotoLibrary" = "Kami memerlukan izin untuk mengakses perpustakaan foto Anda untuk membaca dan menulis media ke perangkat Anda";
+"_Notification" = "Pemberitahuan";
+"_AP_Notification" = "Kami membutuhkan izin untuk dapat memberi tahu Anda dari aplikasi tentang status tugas";
+"_PhotoLibrary" = "Perpustakaan Foto";
+"_Allow_Access" = "Izinkan Akses";
+// menu
+"_Menu" = "Menu";
+"_Rate_Us" = "Beri Nilai Kami";
+"_More_Apps" = "Aplikasi Lainnya";
+"_Share_App" = "Bagikan";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Tidak ada desain Ditemukan Untuk Ditransfer";
+"_TranferFailed" = "Transfer Gagal";
+"_IncorrectZip" = "Zip salah";
+"_RestoreFailed" = "Pulihkan Gagal. Coba lagi.";
+"_Success" = "Keberhasilan";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Gambar hilang. Beberapa Desain Mungkin Tidak Ditampilkan Dengan Benar";
+"_TransferDesigns" = "Desain Transfer";
+"_RestoreDesigns" = "Pulihkan Desain";

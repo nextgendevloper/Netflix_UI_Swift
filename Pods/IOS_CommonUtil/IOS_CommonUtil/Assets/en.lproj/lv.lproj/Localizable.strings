@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "Ok";
+"_Done" = "Done";
+"_Cancel" = "anulēt";
+"_Back" = "Atpakaļ";
+"_OpenSettings" = "Atveriet lietotni Iestatījumi.";
+"_Loading" = "Notiek ielāde ...";
+"_Close" = "Aizvērt";
+"_Alert" = "Alert";
+"_TryAgain" = "Mēģini vēlreiz";
+"_Later" = "Vēlāk";
+"_Font" = "Fonts";
+"_Transparency" = "Pārredzamība";
+"_Fonts" = "Fonti";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Krāsa";
+"_COLOR" = "Krāsa";
+"_Colors" = "Krāsas";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradients";
+"_Linear" = "Lineāri";
+"_Radial" = "Radiāls";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Šķiet, ka jūsu privātuma iestatījumi neļauj mums piekļūt jūsu fotoattēlu bibliotēkai, lai ielādētu fotoattēlus. To var novērst, rīkojoties šādi:";
+"_askForPhotoPermissionChange_step1_" = "Zemāk pieskarieties pogai Atvērt iestatījumus, lai atvērtu lietotni Iestatījumi.";
+"_askForPhotoPermissionChange_step3_" = "Atveriet šo lietotni un mēģiniet vēlreiz.";
+"_askForPhotoPermissionChange_step2_" = "Pieskarieties Fotoattēli un atlasiet Visi fotoattēli vai Atlasītie fotoattēli";
+"_askForMusicPermissionChange_main_" = "Izskatās, ka jūsu privātuma iestatījumi neļauj mums piekļūt jūsu mūzikas bibliotēkai, lai ielādētu mūziku. To var labot, rīkojoties šādi:";
+"_askForMusicPermissionChange_step1_" = "Zemāk pieskarieties pogai Atvērt iestatījumus, lai atvērtu lietotni Iestatījumi.";
+"_askForMusicPermissionChange_step3_" = "Atveriet šo lietotni un mēģiniet vēlreiz.";
+"_askForMusicPermissionChange_step2_" = "Ieslēdziet pārslēgšanas slēdzi programmas Media & Apple Music priekšā";
+"_askForNotificationPermissionChange_main_" = "Šķiet, ka jūsu konfidencialitātes iestatījumi neļauj mums paziņot jums par jūsu projekta statusu. To var novērst, rīkojoties šādi:";
+"_askForNotificationPermissionChange_step1_" = "Zemāk pieskarieties pogai Atvērt iestatījumus, lai atvērtu lietotni Iestatījumi.";
+"_askForNotificationPermissionChange_step3_" = "Atveriet šo lietotni un mēģiniet vēlreiz.";
+"_askForNotificationPermissionChange_step2_" = "Pieskarieties paziņojumam un ieslēdziet slēdzi, lai atļautu paziņojumu";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Nav interneta";
+"_NoInternet_Body" = " kaut kas nogāja greizi. Lūdzu, pārbaudiet savu interneta savienojumu un mēģiniet vēlreiz.";
+"_ErrorOcuured" = "Radās kļūda";
+"_ErrorWhileSaving" = "Saglabājot kļūdu, radās kļūda";
+"_AppNotInstalled" = "Lietotne nav instalēta.";
+"_AppNotInstalled_Body"= "Lūdzu, vispirms lejupielādējiet lietotni no Appstore un mēģiniet vēlreiz.";
+"_SomethingWentWrongPleaseTryAgain" = "Kaut kas nogāja greizi. Lūdzu mēģiniet vēlreiz.";///
+"_PermissionError" = "Piekļuve nav pieejama";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Saglabāts veiksmīgi";
+"_Audio_Writing_Failed" = "Nevar atšifrēt audio (var būt neatbalstīts vai bojāts fails)";
+"_Metal_Configuration_Error" = "Ups! kaut kas nogāja greizi. Lūdzu mēģiniet vēlreiz.";
+"_VIDEO_ERROR" = "Nav atrasts neviens atbalstītais video";
+"_IMAGE_ERROR" = "Iegūstot attēlu, radās kļūda. Lūdzu mēģiniet vēlreiz.";
+// Text
+"_EnterTextToProceed" = "Lūdzu, ievadiet tekstu ..";
+"_Text" = "Teksts";
+"_TextEdit" = "Rediģēt tekstu";
+// VIDEO
+"_TimelapseVideoError_body" = "Šim videoklipam ir timelapse tips.Lai turpinātu, atlasiet citu";
+"_TimelapseVideoError_title" = "TimeLapse video";
+"_iCloudVideoError_body" = "Šis video ir pieejams vietnē iCloud.Lai turpinātu, vispirms lejupielādējiet to no iCloud";
+"_iCloudVideoError_title" = "iCloud video";
+"_UE_SelectAnother" = "Nezināma kļūda. Lūdzu, atlasiet citu videoklipu";
+"_NoSupportedVideoFound" = "Nav atrasts neviens atbalstītais video";
+//IMAGE
+"_Image" = "Attēls";
+"_IE_TryAgain" = "Iegūstot attēlu, radās kļūda. Lūdzu mēģiniet vēlreiz.";
+//MUSIC
+"_Music" = "Mūzika";
+"_ImportFromItunes" = "Importēt no ITunes";
+"_AudioDecodingFailed" = "Nevar atšifrēt audio (var būt neatbalstīts vai bojāts fails)";
+"_SongNotAvailable" = "Dziesma nav pieejama";
+"_SongAdded" = "Dziesma pievienota";
+"_SongDRMProtected_Body1" = "Šī dziesma ir DRM Protected by Apple music";
+"_SongDRMProtected_Body2" = " Lūdzu, izvēlieties mūziku bezsaistē";
+"_SongLoaded"="Dziesma ielādēta";
+// ERRORS
+"_ErrorInSelection" = "Kļūda atlasē";
+"_Error" = "Kļūda";
+"_NoInternet_Body" = " kaut kas nogāja greizi. Lūdzu, pārbaudiet savu interneta savienojumu un mēģiniet vēlreiz.";
+"_ErrorWhileSaving" = "Saglabājot kļūdu, radās kļūda";
+"_SWW_TryAgain" = "Ups! kaut kas nogāja greizi. Lūdzu mēģiniet vēlreiz.";
+// IAP
+"_RestoreSuccessfully" = "Veiksmīgi Restored";
+"_NoWatermark" = "* Nav ūdenszīmes";
+"_NoAds" = "Nav reklāmu";
+"_PrivacyPolicy" = "Privātuma politika";
+"_SubscriptionDetails" = "Informācija par abonementu";
+"_TernsAndConditions" = "Noteikumi un nosacījums";
+"_Restore" = "Atjaunot";
+"_GoPro" = "Iet Pro";
+"_OneTime" = "Vienu reizi";
+// FEEDBACK
+"_DidYouLikeYour" = "Vai jums patika jūsu Textro";
+"_FeedbackBody_HowYoufeel" = "Mēs mēģinājām padarīt šo lietotni noderīgu un viegli lietojamu. Lūdzu, izvēlieties, kā jūtaties.";
+"_Good" = "Good";
+"_Bad" = "Slikti";
+"_Excellent" = "Teicami";
+"_Privacy" = "Privātums";
+"_NeedHelp" = "Vajadzīga palīdzība?";
+"_FeedbackBody_DontWorry" = "Neuztraucieties, mēs esam šeit, lai jums palīdzētu.";
+"_GiveSuggestion" = "Dodiet ieteikumu";
+"_GoodDescription" = "Vai varbūt lūdziet jaunu funkciju.";
+"_ThankYou" = "Paldies!";
+"_ExcellentDescription" = "Vai jūs uzrakstīsiet pārskatu par App Store?";
+"_ASK_FOR_HELP" = "Lūgt palīdzību";
+"_Send" = "Sūtīt";
+"_ReviewNow" = "Pārskatiet tagad";
+"_TapToRemove" = "Pieskarieties pie Noņemt";
+"_MoreInHouseApps"  = "Vairāk lietotņu";
+// EMAIL
+"_EmailServiceNotAvailable" = " Pakalpojums pašlaik nav pieejams.";
+"_WriteYourSuggestionBelow" = "Ierakstiet savas problēmas vai ieteikumus šeit.";
+"_media_report_title" = "Vai varat, lūdzu, pievienot šo multividi kā pielikumu ?. Tas patiešām palīdzēs mums labāk izprast šo jautājumu.";
+"_report_us" = "Ziņot par šo problēmu";
+"_media_error_body" = "Radās problēma kļūst medijiem.";
+"_media_error_title" = "Nav Media atrasts.";
+// onboard
+"_AP_PhotoLibrary" = "Mums ir nepieciešama atļauja piekļūt jūsu fotoattēlu bibliotēkai, lai lasītu un rakstītu multivides failus jūsu ierīcē";
+"_Notification" = "Notification";
+"_AP_Notification" = "Mums ir nepieciešama atļauja, lai varētu informēt jūs no lietotnes par uzdevuma statusu";
+"_PhotoLibrary" = "Foto bibliotēka";
+"_Allow_Access" = "Atļaut piekļuvi";
+// menu
+"_Menu" = "Izvēlne";
+"_Rate_Us" = "Rate Us";
+"_More_Apps" = "Vairāk lietotņu";
+"_Share_App" = "Kopīgot";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Nav atrasts neviens dizains, ko pārsūtīt";
+"_TranferFailed" = "Pārsūtīšana neizdevās";
+"_IncorrectZip" = "Nepareizs fails";
+"_RestoreFailed" = "Neizdevās atjaunot. Mēģini vēlreiz.";
+"_Success" = "Panākumi";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Attēli ir pazuduši. Daži dizainparaugi var netikt parādīti pareizi";
+"_TransferDesigns" = "Transfer dizaini";
+"_RestoreDesigns" = "Atjaunot dizainus";

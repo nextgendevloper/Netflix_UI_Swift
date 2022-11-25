@@ -1,0 +1,136 @@
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "Ok";
+"_Done" = "Done";
+"_Cancel" = "Cancel";
+"_Back" = "Back";
+"_OpenSettings" = "Open the Settings app.";
+"_Loading" = "Loading";
+"_Close" = "Close";
+"_Alert" = "Alert";
+"_TryAgain" = "Try Again";
+"_Later" = "Later";
+"_Font" = "Font";
+"_Transparency" = "Transparency";
+"_Fonts" = "Fonts";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Color";
+"_COLOR" = "COLOR";
+"_Colors" = "Colors";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradient";
+"_Linear" = "Linear";
+"_Radial" = "Radial";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "It looks like your privacy settings are preventing us from accessing your Photo Library to fetch Photos. You can fix this by doing the following:";
+"_askForPhotoPermissionChange_step1_" = "Touch Open Settings button below to open the Settings app.";
+"_askForPhotoPermissionChange_step3_" = "Open this app and try again.";
+"_askForPhotoPermissionChange_step2_" = "Tap on Photos and select All Photos or Selected Photos";
+"_askForMusicPermissionChange_main_" = "It looks like your privacy settings are preventing us from accessing your Music Library to fetch Music. You can fix this by doing the following:";
+"_askForMusicPermissionChange_step1_" = "Touch Open Settings button below to open the Settings app.";
+"_askForMusicPermissionChange_step3_" = "Open this app and try again.";
+"_askForMusicPermissionChange_step2_" = "Turn on the toggle switch in front of Media & Apple Music";
+"_askForNotificationPermissionChange_main_" = "It looks like your privacy settings are preventing us from notifying you about your project status. You can fix this by doing the following:";
+"_askForNotificationPermissionChange_step1_" = "Touch Open Settings button below to open the Settings app.";
+"_askForNotificationPermissionChange_step3_" = "Open this app and try again.";
+"_askForNotificationPermissionChange_step2_" = "Tap on Notification and Toggle ON switch to allow the notification";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "No Internet";
+"_NoInternet_Body" = " something went wrong. Please check your internet connection and try again.";
+"_ErrorOcuured" = "Error Occured";
+"_ErrorWhileSaving" = "Error while saving";
+"_AppNotInstalled" = "App not installed.";
+"_AppNotInstalled_Body"= "Please download app from appstore first and try again.";
+"_SomethingWentWrongPleaseTryAgain" = "Something went wrong. Please try again.";///
+"_PermissionError" = "Access not available";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Saved Successfully";
+"_Audio_Writing_Failed" = "Unable to decode Audio (may be unsupported or currupt file)";
+"_Metal_Configuration_Error" = "Oops! something went wrong. Please try again.";
+"_VIDEO_ERROR" = "No Supported Video found";
+"_IMAGE_ERROR" = "Error while getting image. Please try again.";
+// Text
+"_EnterTextToProceed" = "Please enter some text..";
+"_Text" = "Text";
+"_TextEdit" = "Edit Text";
+// VIDEO
+"_TimelapseVideoError_body" = "This video is timelapse type.Please select another to continue";
+"_TimelapseVideoError_title" = "TimeLapse Video";
+"_iCloudVideoError_body" = "This video is available in iCloud.Please download first from iCloud to continue";
+"_iCloudVideoError_title" = "iCloud Video";
+"_UE_SelectAnother" = "Unknown Error. Please Select Another Video";
+"_NoSupportedVideoFound" = "No Supported Video found";
+//IMAGE
+"_Image" = "Image";
+"_IE_TryAgain" = "Error while getting image. Please try again.";
+//MUSIC
+"_Music" = "Music";
+"_ImportFromItunes" = "Import From iTunes";
+"_AudioDecodingFailed" = "Unable to decode Audio (may be unsupported or currupt file)";
+"_SongNotAvailable" = "Song Not Available";
+"_SongAdded" = "Song Added";
+"_SongDRMProtected_Body1" = "This song is DRM Protected by Apple music ";
+"_SongDRMProtected_Body2" = " Please choose offline music";
+"_SongLoaded"="Song Loaded";
+// ERRORS
+"_ErrorInSelection" = "Error In Selection";
+"_Error" = "Error";
+"_NoInternet_Body" = " Something went wrong. Please check your internet connection and try again.";
+"_ErrorWhileSaving" = "Error while saving";
+"_SWW_TryAgain" = "Oops! something went wrong. Please try again.";
+// IAP
+"_RestoreSuccessfully" = "Successfully Restored.";
+"_NoWatermark" = "No Watermark";
+"_NoAds" = "No Ads";
+"_PrivacyPolicy" = "Privacy Policy";
+"_SubscriptionDetails" = "Subscription Details";
+"_TernsAndConditions" = "Terms And Condition";
+"_Restore" = "Restore";
+"_GoPro" = "Go Pro";
+"_OneTime" = "One Time";
+// FEEDBACK
+"_DidYouLikeYour" = "Did you like your Textro ";
+"_FeedbackBody_HowYoufeel" = "We tried to make this app helpful and easy to use. Please select how you feel.";
+"_Good" = "Good";
+"_Bad" = "Bad";
+"_Excellent" = "Excellent";
+"_Privacy" = "Privacy";
+"_NeedHelp" = "Need Help?";
+"_FeedbackBody_DontWorry" = "Don't worry, we are here to help you.";
+"_GiveSuggestion" = "Give Suggestion";
+"_GoodDescription" = "Or maybe, ask for a new feature.";
+"_ThankYou" = "Thank You!";
+"_ExcellentDescription" = "Will you write a Review on App Store?";
+"_ASK_FOR_HELP" = "ASK FOR HELP";
+"_Send" = "Send";
+"_ReviewNow" = "Review Now";
+"_TapToRemove" = "Tap to remove";
+"_MoreInHouseApps"  = "More Apps";
+// EMAIL
+"_EmailServiceNotAvailable" = " Service not available now. ";
+"_WriteYourSuggestionBelow" = "Write your problems or suggestions here..";
+"_media_report_title" = "Can you please add this media as an attachment?. It will really help us better to understand the issue .";
+"_report_us" = "Report this issue";
+"_media_error_body" = "Something went wrong while getting media.";
+"_media_error_title" = "No Media Found.";
+// onboard
+"_AP_PhotoLibrary" = "We need permission to access your photo library in order to read and write media to your device ";
+"_Notification" = "Notification";
+"_AP_Notification" = "We need permission to be able to notify you from app about task status ";
+"_PhotoLibrary" = "Photo Library";
+"_Allow_Access" = "Allow Access";
+// menu
+"_Menu" = "Menu";
+"_Rate_Us" = "Rate Us";
+"_More_Apps" = "More Apps";
+"_Share_App" = "Share";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "No designs Found To Transfer";
+"_TranferFailed" = "Transfer Failed";
+"_IncorrectZip" = "Incorrect Zip";
+"_RestoreFailed" = "Restore Failed";
+"_Success" = "Success";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Images Are Missing. Some Designs May Not Display Properly";
+"_TransferDesigns" = "Transfer Designs";
+"_RestoreDesigns" = "Restore Designs";

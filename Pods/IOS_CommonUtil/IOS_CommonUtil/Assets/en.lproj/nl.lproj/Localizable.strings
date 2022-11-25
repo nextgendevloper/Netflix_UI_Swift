@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "OK";
+"_Done" = "Gedaan";
+"_Cancel" = "annuleren";
+"_Back" = "Terug";
+"_OpenSettings" = "Open de app Instellingen.";
+"_Loading" = "Bezig met laden...";
+"_Close" = "Dichtbij";
+"_Alert" = "Alert";
+"_TryAgain" = "Probeer het opnieuw";
+"_Later" = "Later";
+"_Font" = "doopvont";
+"_Transparency" = "Transparantie";
+"_Fonts" = "fonts";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Kleur";
+"_COLOR" = "Kleur";
+"_Colors" = "kleuren";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradiënt";
+"_Linear" = "Lineair";
+"_Radial" = "Radial";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Het lijkt erop dat je privacy-instellingen verhinderen dat we toegang krijgen tot je fotobibliotheek om foto's op te halen. U kunt dit oplossen door het volgende te doen:";
+"_askForPhotoPermissionChange_step1_" = "Raak de knop Instellingen openen hieronder aan om de app Instellingen te openen.";
+"_askForPhotoPermissionChange_step3_" = "Open deze app en probeer het opnieuw.";
+"_askForPhotoPermissionChange_step2_" = "Tik op Foto's en selecteer Alle foto's of Geselecteerde foto's";
+"_askForMusicPermissionChange_main_" = "Het lijkt erop dat uw privacy-instellingen ons verhinderen toegang te krijgen tot uw muziekbibliotheek om muziek op te halen. U kunt dit oplossen door het volgende te doen:";
+"_askForMusicPermissionChange_step1_" = "Raak de knop Instellingen openen hieronder aan om de app Instellingen te openen.";
+"_askForMusicPermissionChange_step3_" = "Open deze app en probeer het opnieuw.";
+"_askForMusicPermissionChange_step2_" = "Zet de schakelaar aan de voorkant van de Media & Apple Music";
+"_askForNotificationPermissionChange_main_" = "Het lijkt erop dat uw privacy-instellingen ons verhinderen u op de hoogte te stellen van uw projectstatus. U kunt dit oplossen door het volgende te doen:";
+"_askForNotificationPermissionChange_step1_" = "Raak de knop Instellingen openen hieronder aan om de app Instellingen te openen.";
+"_askForNotificationPermissionChange_step3_" = "Open deze app en probeer het opnieuw.";
+"_askForNotificationPermissionChange_step2_" = "Tik op Melding en schakel AAN-schakelaar om de melding toe te staan";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Geen internet";
+"_NoInternet_Body" = " er is iets fout gegaan. Controleer uw internetverbinding en probeer het opnieuw.";
+"_ErrorOcuured" = "Fout opgetreden";
+"_ErrorWhileSaving" = "Fout tijdens opslaan";
+"_AppNotInstalled" = "App niet geïnstalleerd.";
+"_AppNotInstalled_Body"= "Download de app eerst uit de appstore en probeer het opnieuw.";
+"_SomethingWentWrongPleaseTryAgain" = "Er is iets fout gegaan. Probeer het opnieuw.";///
+"_PermissionError" = "Toegang niet beschikbaar";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Succesvol opgeslagen";
+"_Audio_Writing_Failed" = "Kan audio niet decoderen (kan een niet-ondersteund of currupt bestand zijn)";
+"_Metal_Configuration_Error" = "Oops! er is iets fout gegaan. Probeer het opnieuw.";
+"_VIDEO_ERROR" = "Geen ondersteunde video gevonden";
+"_IMAGE_ERROR" = "Fout bij het ophalen van een afbeelding. Probeer het opnieuw.";
+// Text
+"_EnterTextToProceed" = "Voer alstublieft een tekst in ..";
+"_Text" = "Tekst";
+"_TextEdit" = "Tekst bewerken";
+// VIDEO
+"_TimelapseVideoError_body" = "Deze video is van het timelapse-type. Selecteer een andere om door te gaan";
+"_TimelapseVideoError_title" = "TimeLapse-video";
+"_iCloudVideoError_body" = "Deze video is beschikbaar in iCloud. Download eerst van iCloud om door te gaan";
+"_iCloudVideoError_title" = "iCloud-video";
+"_UE_SelectAnother" = "Onbekende fout. Selecteer een andere video";
+"_NoSupportedVideoFound" = "Geen ondersteunde video gevonden";
+//IMAGE
+"_Image" = "afbeelding";
+"_IE_TryAgain" = "Fout bij het ophalen van een afbeelding. Probeer het opnieuw.";
+//MUSIC
+"_Music" = "Muziek";
+"_ImportFromItunes" = "Importeren vanuit iTunes";
+"_AudioDecodingFailed" = "Kan audio niet decoderen (kan een niet-ondersteund of currupt bestand zijn)";
+"_SongNotAvailable" = "Song Niet beschikbaar";
+"_SongAdded" = "Lied toegevoegd";
+"_SongDRMProtected_Body1" = "Dit nummer is DRM Protected by Apple music";
+"_SongDRMProtected_Body2" = " Kies offline muziek";
+"_SongLoaded"="Song Loaded";
+// ERRORS
+"_ErrorInSelection" = "Fout in selectie";
+"_Error" = " dwaling";
+"_NoInternet_Body" = " er is iets fout gegaan. Controleer uw internetverbinding en probeer het opnieuw.";
+"_ErrorWhileSaving" = "Fout tijdens opslaan";
+"_SWW_TryAgain" = "Oops! er is iets fout gegaan. Probeer het opnieuw.";
+// IAP
+"_RestoreSuccessfully" = "Succesvol gerestaureerd.";
+"_NoWatermark" = "* Geen watermerk";
+"_NoAds" = "Geen advertenties";
+"_PrivacyPolicy" = "Privacybeleid";
+"_SubscriptionDetails" = "Abonnementsgegevens";
+"_TernsAndConditions" = "Algemene voorwaarden";
+"_Restore" = "Herstellen";
+"_GoPro" = "Ga Pro";
+"_OneTime" = "Een keer";
+// FEEDBACK
+"_DidYouLikeYour" = "Vond je je Textro leuk?";
+"_FeedbackBody_HowYoufeel" = "We hebben geprobeerd deze app nuttig en gebruiksvriendelijk te maken. Selecteer alstublieft hoe u zich voelt.";
+"_Good" = "Goed";
+"_Bad" = "Slecht";
+"_Excellent" = "Uitstekend";
+"_Privacy" = "Privacy";
+"_NeedHelp" = "Hulp nodig?";
+"_FeedbackBody_DontWorry" = "Maak je geen zorgen, we zijn hier om je te helpen.";
+"_GiveSuggestion" = "Geef suggestie";
+"_GoodDescription" = "Of misschien, vraag om een nieuwe voorzien zijn van.";
+"_ThankYou" = "Dank je!";
+"_ExcellentDescription" = "Schrijf je een beoordeling in de App Store?";
+"_ASK_FOR_HELP" = "Vraag om hulp";
+"_Send" = "sturen";
+"_ReviewNow" = "Nu beoordelen";
+"_TapToRemove" = "Tik om te verwijderen";
+"_MoreInHouseApps"  = "Meer apps";
+// EMAIL
+"_EmailServiceNotAvailable" = " Service is nu niet beschikbaar.";
+"_WriteYourSuggestionBelow" = "Schrijf hier uw problemen of suggesties op ..";
+"_media_report_title" = "Kunt u toevoegen deze media als bijlage ?. Het zal ons echt helpen om het probleem beter te begrijpen.";
+"_report_us" = "Meld dit probleem";
+"_media_error_body" = "Er is iets misgegaan tijdens het 'krijgen' media.";
+"_media_error_title" = "Geen media gevonden.";
+// onboard
+"_AP_PhotoLibrary" = "We hebben toestemming nodig om toegang te krijgen tot uw fotobibliotheek om media op uw apparaat te kunnen lezen en schrijven";
+"_Notification" = "Kennisgeving";
+"_AP_Notification" = "We hebben toestemming nodig om u vanuit de app op de hoogte te stellen van de taakstatus";
+"_PhotoLibrary" = "Fotobibliotheek";
+"_Allow_Access" = "Toegang te verlenen";
+// menu
+"_Menu" = "Menu";
+"_Rate_Us" = "Beoordeel ons";
+"_More_Apps" = "Meer apps";
+"_Share_App" = "Delen";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Geen ontwerpen gevonden om over te dragen";
+"_TranferFailed" = "Overdracht mislukt";
+"_IncorrectZip" = "Verkeerde zip";
+"_RestoreFailed" = "restaureren Mislukt. Probeer opnieuw.";
+"_Success" = "success";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Afbeeldingen ontbreken. Sommige ontwerpen worden mogelijk niet goed weergegeven";
+"_TransferDesigns" = "Ontwerpen overbrengen";
+"_RestoreDesigns" = "Ontwerpen herstellen";

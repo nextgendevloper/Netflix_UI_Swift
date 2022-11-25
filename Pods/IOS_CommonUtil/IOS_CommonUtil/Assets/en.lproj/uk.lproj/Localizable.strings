@@ -1,0 +1,142 @@
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+ */
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "Гаразд";
+"_Done" = "Виконано";
+"_Cancel" = "Скасувати";
+"_Back" = "Назад";
+"_OpenSettings" = "Відкрийте додаток Налаштування.";
+"_Loading" = "Завантаження ...";
+"_Close" = "близько";
+"_Alert" = "Alert";
+"_TryAgain" = "Спробуйте ще раз";
+"_Later" = "Пізніше";
+"_Font" = "Font";
+"_Transparency" = "Прозорість";
+"_Fonts" = "Шрифти";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Колір";
+"_COLOR" = "Колір";
+"_Colors" = "Кольори";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Градієнт";
+"_Linear" = "Лінійний";
+"_Radial" = "Радіальний";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Схоже, ваші налаштування конфіденційності заважають нам отримати доступ до вашої бібліотеки фотографій для отримання фотографій. Виправити це можна, виконавши такі дії:";
+"_askForPhotoPermissionChange_step1_" = "Торкніться кнопки Відкрити налаштування нижче, щоб відкрити програму Налаштування.";
+"_askForPhotoPermissionChange_step3_" = "Відкрийте цю програму та спробуйте ще раз.";
+"_askForPhotoPermissionChange_step2_" = "Натисніть Фотографії та виберіть Усі фотографії або Вибрані фотографії";
+"_askForMusicPermissionChange_main_" = "Схоже, що ваші налаштування конфіденційності заважають нам отримувати доступ до вашої Музичної бібліотеки для отримання музики. Ви можете виправити це, зробивши наступне:";
+"_askForMusicPermissionChange_step1_" = "Торкніться кнопки Відкрити налаштування нижче, щоб відкрити програму Налаштування.";
+"_askForMusicPermissionChange_step3_" = "Відкрийте цю програму та спробуйте ще раз.";
+"_askForMusicPermissionChange_step2_" = "Увімкніть тумблер перед ЗМІ і Apple Music";
+"_askForNotificationPermissionChange_main_" = "Схоже, ваші налаштування конфіденційності заважають нам повідомляти вас про ваш статус проекту. Ви можете це виправити, виконавши такі дії:";
+"_askForNotificationPermissionChange_step1_" = "Торкніться кнопки Відкрити налаштування нижче, щоб відкрити програму Налаштування.";
+"_askForNotificationPermissionChange_step3_" = "Відкрийте цю програму та спробуйте ще раз.";
+"_askForNotificationPermissionChange_step2_" = "Натисніть сповіщення та перемикач, щоб дозволити сповіщення";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Немає Інтернету";
+"_NoInternet_Body" = " щось пішло не так. Перевірте підключення до Інтернету та повторіть спробу.";
+"_ErrorOcuured" = "Сталася помилка";
+"_ErrorWhileSaving" = "Помилка під час збереження";
+"_AppNotInstalled" = "Додаток не встановлено.";
+"_AppNotInstalled_Body"= "Спочатку завантажте програму з магазину програм і спробуйте ще раз.";
+"_SomethingWentWrongPleaseTryAgain" = "Щось пішло не так. Будь ласка спробуйте ще раз.";///
+"_PermissionError" = "Доступ недоступний";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Збережено успішно";
+"_Audio_Writing_Failed" = "Неможливо декодувати аудіо (може бути непідтримуваний або пошкоджений файл)";
+"_Metal_Configuration_Error" = "На жаль! щось пішло не так. Будь ласка спробуйте ще раз.";
+"_VIDEO_ERROR" = "Не знайдено підтримуваного відео";
+"_IMAGE_ERROR" = "Помилка під час отримання зображення. Будь ласка спробуйте ще раз.";
+// Text
+"_EnterTextToProceed" = "Введіть текст.";
+"_Text" = "Текст";
+"_TextEdit" = "Редагувати текст";
+// VIDEO
+"_TimelapseVideoError_body" = "Це відео має тип часового проміжку. Виберіть інше, щоб продовжити";
+"_TimelapseVideoError_title" = "TimeLapse Video";
+"_iCloudVideoError_body" = "Це відео доступне в iCloud. Щоб продовжити, спочатку завантажте його з iCloud";
+"_iCloudVideoError_title" = "iCloud Video";
+"_UE_SelectAnother" = "Невідома помилка. Виберіть інше відео";
+"_NoSupportedVideoFound" = "Не знайдено підтримуваного відео";
+//IMAGE
+"_Image" = "Зображення";
+"_IE_TryAgain" = "Помилка під час отримання зображення. Будь ласка спробуйте ще раз.";
+//MUSIC
+"_Music" = "Музика";
+"_ImportFromItunes" = "Імпорт із ITunes";
+"_AudioDecodingFailed" = "Неможливо декодувати аудіо (може бути непідтримуваний або пошкоджений файл)";
+"_SongNotAvailable" = "Пісня недоступна";
+"_SongAdded" = "Пісня додана";
+"_SongDRMProtected_Body1" = "Ця пісня захищена DRM музикою Apple";
+"_SongDRMProtected_Body2" = " Виберіть музику офлайн";
+"_SongLoaded"="пісня Loaded";
+// ERRORS
+"_ErrorInSelection" = "Помилка при виборі";
+"_Error" = "Помилка";
+"_NoInternet_Body" = " щось пішло не так. Перевірте підключення до Інтернету та повторіть спробу.";
+"_ErrorWhileSaving" = "Помилка під час збереження";
+"_SWW_TryAgain" = "На жаль! щось пішло не так. Будь ласка спробуйте ще раз.";
+// IAP
+"_RestoreSuccessfully" = "Успішно відновлено.";
+"_NoWatermark" = "* Відсутній водяний знак";
+"_NoAds" = "Немає об’яв";
+"_PrivacyPolicy" = "Політика конфіденційності";
+"_SubscriptionDetails" = "Подробиці підписки";
+"_TernsAndConditions" = "Терміни і умови";
+"_Restore" = "Відновлення";
+"_GoPro" = "ГОУ Про";
+"_OneTime" = "Одного разу";
+// FEEDBACK
+"_DidYouLikeYour" = "did ти як ваш Textro";
+"_FeedbackBody_HowYoufeel" = "Ми намагалися зробити цю програму корисною та зручною у використанні. Виберіть, як ви себе почуваєте.";
+"_Good" = "Good";
+"_Bad" = "поганий";
+"_Excellent" = "Excellent";
+"_Privacy" = "Gizlilik";
+"_NeedHelp" = "Потрібна допомога?";
+"_FeedbackBody_DontWorry" = "Не хвилюйтеся, ми тут, щоб допомогти вам.";
+"_GiveSuggestion" = "дайте Suggestion";
+"_GoodDescription" = "Або, можливо, запитайте нову функцію.";
+"_ThankYou" = "Дякую!";
+"_ExcellentDescription" = "Чи будете ви писати огляд на App Store?";
+"_ASK_FOR_HELP" = "Просити про допомогу";
+"_Send" = "відправити";
+"_ReviewNow" = "огляд Тепер";
+"_TapToRemove" = "Натисніть, щоб видалити";
+"_MoreInHouseApps"  = "Більше додатків";
+// EMAIL
+"_EmailServiceNotAvailable" = " Послуга зараз недоступна.";
+"_WriteYourSuggestionBelow" = "Напишіть тут свої проблеми або пропозиції ..";
+"_media_report_title" = "Ви можете додати цей носій як вкладення ?. Це дійсно допоможе нам краще зрозуміти проблему.";
+"_report_us" = "Повідомити про цю проблему";
+"_media_error_body" = "Під час отримання медіа щось сталося не так.";
+"_media_error_title" = "Медіа не знайдено.";
+// onboard
+"_AP_PhotoLibrary" = "Нам потрібен дозвіл на доступ до вашої бібліотеки фотографій, щоб читати та писати носії на вашому пристрої";
+"_Notification" = "Notification";
+"_AP_Notification" = "Нам потрібен дозвіл, щоб мати можливість повідомляти вас із програми про стан завдання";
+"_PhotoLibrary" = "Фототека";
+"_Allow_Access" = "Дозволити доступ";
+// menu
+"_Menu" = "Меню";
+"_Rate_Us" = "Оцініть нас";
+"_More_Apps" = "Більше додатків";
+"_Share_App" = "ділитися";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Дизайнерів для передачі не знайдено";
+"_TranferFailed" = "перенесення не вдалося";
+"_IncorrectZip" = "Неправильний zip";
+"_RestoreFailed" = "Помилка Restore . Спробуйте ще раз.";
+"_Success" = "успіх";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Відсутні зображення. Деякі конструкції можуть не відображатися належним чином";
+"_TransferDesigns" = "передача дизайни";
+"_RestoreDesigns" = "Відновити дизайни";

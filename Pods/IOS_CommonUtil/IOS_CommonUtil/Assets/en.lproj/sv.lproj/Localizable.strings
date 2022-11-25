@@ -1,0 +1,142 @@
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+ */
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "ok";
+"_Done" = "Gjort";
+"_Cancel" = "Annullera";
+"_Back" = "Tillbaka";
+"_OpenSettings" = "Öppna inställningsappen.";
+"_Loading" = "Läser in...";
+"_Close" = "Stänga";
+"_Alert" = "Alert";
+"_TryAgain" = "Försök igen";
+"_Later" = "Senare";
+"_Font" = "Font";
+"_Transparency" = "Genomskinlighet";
+"_Fonts" = "typsnitt";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Färg";
+"_COLOR" = "Färg";
+"_Colors" = "Färger";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradient";
+"_Linear" = "Linjär";
+"_Radial" = "Radiell";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Det ser ut som att dina sekretessinställningar hindrar oss från att komma åt ditt fotobibliotek för att hämta foton. Du kan åtgärda detta genom att göra följande:";
+"_askForPhotoPermissionChange_step1_" = "Tryck på knappen Öppna inställningar nedan för att öppna appen Inställningar.";
+"_askForPhotoPermissionChange_step3_" = "Öppna den här appen och försök igen.";
+"_askForPhotoPermissionChange_step2_" = "Klicka på Foton och välj Alla foton eller Valda foton";
+"_askForMusicPermissionChange_main_" = "Det ser ut som dina integritetsinställningar hindrar oss från att komma åt ditt musikbibliotek för att hämta musik. Du kan fixa detta genom att göra följande:";
+"_askForMusicPermissionChange_step1_" = "Tryck på knappen Öppna inställningar nedan för att öppna appen Inställningar.";
+"_askForMusicPermissionChange_step3_" = "Öppna den här appen och försök igen.";
+"_askForMusicPermissionChange_step2_" = "Slå på vippbrytaren framför Media & Apple Music";
+"_askForNotificationPermissionChange_main_" = "Det ser ut som att dina sekretessinställningar hindrar oss från att meddela dig om din projektstatus. Du kan åtgärda detta genom att göra följande:";
+"_askForNotificationPermissionChange_step1_" = "Tryck på knappen Öppna inställningar nedan för att öppna appen Inställningar.";
+"_askForNotificationPermissionChange_step3_" = "Öppna den här appen och försök igen.";
+"_askForNotificationPermissionChange_step2_" = "Peka på anmälan och Växla ON-knappen för att låta anmälan";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Inget internet";
+"_NoInternet_Body" = " något gick fel. Kontrollera din internetanslutning och försök igen.";
+"_ErrorOcuured" = "Fel uppstod";
+"_ErrorWhileSaving" = "Ett fel uppstod när du sparade";
+"_AppNotInstalled" = "Appen är inte installerad.";
+"_AppNotInstalled_Body"= "Ladda ner appen från appstore först och försök igen.";
+"_SomethingWentWrongPleaseTryAgain" = "Något gick fel. Var god försök igen.";///
+"_PermissionError" = "Tillgång inte tillgänglig";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Räddade framgångsrikt";
+"_Audio_Writing_Failed" = "Det går inte att avkoda ljud (kan vara ostödd eller förvrängd fil)";
+"_Metal_Configuration_Error" = "hoppsan! något gick fel. Var god försök igen.";
+"_VIDEO_ERROR" = "Ingen stödd video hittades";
+"_IMAGE_ERROR" = "Fel samtidigt som de får bilden. Var god försök igen.";
+// Text
+"_EnterTextToProceed" = "Vänligen ange lite text ..";
+"_Text" = "Text";
+"_TextEdit" = "Redigera text";
+// VIDEO
+"_TimelapseVideoError_body" = "Denna video är timelapse type.Please välja en annan för att fortsätta";
+"_TimelapseVideoError_title" = "TimeLapse-video";
+"_iCloudVideoError_body" = "Den här videon är tillgänglig i iCloud. Ladda ner först från iCloud för att fortsätta";
+"_iCloudVideoError_title" = "iCloud-video";
+"_UE_SelectAnother" = "Okänt fel. Välj en annan video";
+"_NoSupportedVideoFound" = "Ingen stödd video hittades";
+//IMAGE
+"_Image" = "Bild";
+"_IE_TryAgain" = "Fel samtidigt som de får bilden. Var god försök igen.";
+//MUSIC
+"_Music" = "musik";
+"_ImportFromItunes" = "Importera från ITunes";
+"_AudioDecodingFailed" = "Det går inte att avkoda ljud (kan vara ostödd eller förvrängd fil)";
+"_SongNotAvailable" = "Sång är inte tillgänglig";
+"_SongAdded" = "Song tillagd";
+"_SongDRMProtected_Body1" = "Den här låten är DRM-skyddad av Apple-musik";
+"_SongDRMProtected_Body2" = " Välj offlinemusik";
+"_SongLoaded"="Song laddad";
+// ERRORS
+"_ErrorInSelection" = "Fel i Urval";
+"_Error" = "felaktighet";
+"_NoInternet_Body" = " något gick fel. Kontrollera din internetanslutning och försök igen.";
+"_ErrorWhileSaving" = "Ett fel uppstod när du sparade";
+"_SWW_TryAgain" = "hoppsan! något gick fel. Var god försök igen.";
+// IAP
+"_RestoreSuccessfully" = "Återställs framgångsrikt.";
+"_NoWatermark" = "* Inget vattenstämpel";
+"_NoAds" = "Inga annonser";
+"_PrivacyPolicy" = "Integritetspolicy";
+"_SubscriptionDetails" = "Prenumerationsuppgifter";
+"_TernsAndConditions" = "Villkor och villkor";
+"_Restore" = "Återställa";
+"_GoPro" = "Go Pro";
+"_OneTime" = "En gång";
+// FEEDBACK
+"_DidYouLikeYour" = "Tyckte du om din Textro";
+"_FeedbackBody_HowYoufeel" = "Vi försökte göra denna app användbar och användbar. Var god välj hur du känner.";
+"_Good" = "Bra";
+"_Bad" = "Dålig";
+"_Excellent" = "Excellent";
+"_Privacy" = "Privatliv";
+"_NeedHelp" = "Behövs hjälp?";
+"_FeedbackBody_DontWorry" = "Oroa dig inte, vi är här för att hjälpa dig.";
+"_GiveSuggestion" = "Ge förslag";
+"_GoodDescription" = "Eller kanske, fråga om en ny funktion.";
+"_ThankYou" = "Tack!";
+"_ExcellentDescription" = "Ska du skriva en recension på App Store?";
+"_ASK_FOR_HELP" = "Fråga efter hjälp";
+"_Send" = "skicka";
+"_ReviewNow" = "Granska nu";
+"_TapToRemove" = "Tryck på för att ta bort";
+"_MoreInHouseApps"  = "Fler appar";
+// EMAIL
+"_EmailServiceNotAvailable" = " Tjänsten är inte tillgänglig nu.";
+"_WriteYourSuggestionBelow" = "Skriv dina problem eller förslag här ..";
+"_media_report_title" = "Kan du lägga till detta media som en bilaga? Det kommer verkligen att hjälpa oss att bättre förstå problemet.";
+"_report_us" = "Rapportera det här problemet";
+"_media_error_body" = "Något gick fel när media hämtades.";
+"_media_error_title" = "Inga media hittades.";
+// onboard
+"_AP_PhotoLibrary" = "Vi behöver tillstånd för att komma åt ditt fotobibliotek för att kunna läsa och skriva media till din enhet";
+"_Notification" = "Underrättelse";
+"_AP_Notification" = "Vi behöver tillstånd för att kunna meddela dig från appen om uppgiftsstatus";
+"_PhotoLibrary" = "Fotobibliotek";
+"_Allow_Access" = "Tillåta åtkomst";
+// menu
+"_Menu" = "Meny";
+"_Rate_Us" = "Betygsätta oss";
+"_More_Apps" = "Fler appar";
+"_Share_App" = "Dela med sig";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Inga mönster hittades att överföra";
+"_TranferFailed" = "Överföringen misslyckades";
+"_IncorrectZip" = "Felaktig zip";
+"_RestoreFailed" = "restore  није успело. Молим вас, покушајте поново.";
+"_Success" = "Framgång";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Bilder saknas. Vissa mönster visas kanske inte korrekt";
+"_TransferDesigns" = "Överföringsdesign";
+"_RestoreDesigns" = "Återställ design";

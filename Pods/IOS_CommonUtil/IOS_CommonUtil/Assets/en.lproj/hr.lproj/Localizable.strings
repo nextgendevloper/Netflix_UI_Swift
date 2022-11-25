@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "OK";
+"_Done" = "Gotovo";
+"_Cancel" = "Otkazati";
+"_Back" = "leđa";
+"_OpenSettings" = "Otvorite aplikaciju Postavke.";
+"_Loading" = "Učitavam...";
+"_Close" = "Zatvoriti";
+"_Alert" = "Alert";
+"_TryAgain" = "Pokušajte ponovno";
+"_Later" = "Kasnije";
+"_Font" = "fonta";
+"_Transparency" = "Prozirnost";
+"_Fonts" = "fontovi";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Boja";
+"_COLOR" = "Boja";
+"_Colors" = "boje";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradijent";
+"_Linear" = "linearan";
+"_Radial" = "radijalan";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Čini se da nas vaše postavke privatnosti sprečavaju da pristupimo vašoj biblioteci fotografija radi dohvaćanja fotografija. You can fix this by doing the following:";
+"_askForPhotoPermissionChange_step1_" = "Dodirnite gumb Otvori postavke dolje da biste otvorili aplikaciju Postavke.";
+"_askForPhotoPermissionChange_step3_" = "Otvorite ovu aplikaciju i pokušajte ponovo.";
+"_askForPhotoPermissionChange_step2_" = "Dodirnite Fotografije i odaberite Sve fotografije ili Odabrane fotografije";
+"_askForMusicPermissionChange_main_" = "Čini se da nas vaše postavke privatnosti sprječavaju u pristupu vašoj glazbenoj biblioteci da bismo preuzeli glazbu. To možete popraviti na sljedeći način:";
+"_askForMusicPermissionChange_step1_" = "Dodirnite gumb Otvori postavke dolje da biste otvorili aplikaciju Postavke.";
+"_askForMusicPermissionChange_step3_" = "Otvorite ovu aplikaciju i pokušajte ponovo.";
+"_askForMusicPermissionChange_step2_" = "Uključite sklopku ispred Media & Apple Music";
+"_askForNotificationPermissionChange_main_" = "Izgleda da je vaše postavke privatnosti nas sprečavaju da ćemo vas obavijestiti o statusu projekta. To možete popraviti na sljedeći način:";
+"_askForNotificationPermissionChange_step1_" = "Dodirnite gumb Otvori postavke dolje da biste otvorili aplikaciju Postavke.";
+"_askForNotificationPermissionChange_step3_" = "Otvorite ovu aplikaciju i pokušajte ponovo.";
+"_askForNotificationPermissionChange_step2_" = "Dodirnite prekidač Obavijest i Uključi da biste omogućili obavijest";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Nema interneta";
+"_NoInternet_Body" = " nešto je pošlo po zlu. Provjerite internetsku vezu i pokušajte ponovno.";
+"_ErrorOcuured" = "Dogodila se pogreška";
+"_ErrorWhileSaving" = "Pogreška tijekom spremanja";
+"_AppNotInstalled" = "Aplikacija nije instalirana.";
+"_AppNotInstalled_Body"= "Prvo preuzmite aplikaciju iz trgovine aplikacija i pokušajte ponovo.";
+"_SomethingWentWrongPleaseTryAgain" = "Nešto je pošlo po zlu. Molim te pokušaj ponovno.";///
+"_PermissionError" = "Pristup nije dostupan";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Spremljeno uspješno";
+"_Audio_Writing_Failed" = "Nije moguće dekodirati zvuk (može biti nepodržan ili prekinuta datoteka)";
+"_Metal_Configuration_Error" = "Uh! nešto je pošlo po zlu. Molim te pokušaj ponovno.";
+"_VIDEO_ERROR" = "Nije pronađen podržani videozapis";
+"_IMAGE_ERROR" = "Pogreška prilikom dobivanja slike. Molim te pokušaj ponovno.";
+// Text
+"_EnterTextToProceed" = "Unesite neki tekst ..,";
+"_Text" = "Tekst";
+"_TextEdit" = "Uredi Tekst";
+// VIDEO
+"_TimelapseVideoError_body" = "Ovaj je videozapis timelapse. Za nastavak odaberite drugog";
+"_TimelapseVideoError_title" = "TimeLapse video";
+"_iCloudVideoError_body" = "Ovaj je videozapis dostupan u iCloud-u. Za početak nastavite prvo s iClouda";
+"_iCloudVideoError_title" = "iCloud Video";
+"_UE_SelectAnother" = "Nepoznata pogreška. Odaberite drugi videozapis";
+"_NoSupportedVideoFound" = "Nije pronađen podržani videozapis";
+//IMAGE
+"_Image" = "Slika";
+"_IE_TryAgain" = "Pogreška prilikom dobivanja slike. Molim te pokušaj ponovno.";
+//MUSIC
+"_Music" = "glazba";
+"_ImportFromItunes" = "Uvoz iz ITunesa";
+"_AudioDecodingFailed" = "Nije moguće dekodirati zvuk (može biti nepodržan ili prekinuta datoteka)";
+"_SongNotAvailable" = "Pjesma nije dostupna";
+"_SongAdded" = "Pjesma je dodana";
+"_SongDRMProtected_Body1" = "Ova pjesma je DRM zaštićena Apple glazbom";
+"_SongDRMProtected_Body2" = "  Odaberite glazbu izvan mreže";
+"_SongLoaded"="Pjesma učitana";
+// ERRORS
+"_ErrorInSelection" = "Pogreška u odabiru";
+"_Error" = "greška";
+"_NoInternet_Body" = " nešto je pošlo po zlu. Provjerite internetsku vezu i pokušajte ponovno.";
+"_ErrorWhileSaving" = "Pogreška tijekom spremanja";
+"_SWW_TryAgain" = "Uh! nešto je pošlo po zlu. Molim te pokušaj ponovno.";
+// IAP
+"_RestoreSuccessfully" = "Uspješno obnovljeno.";
+"_NoWatermark" = "* Nema vodenog žiga";
+"_NoAds" = "Bez reklama";
+"_PrivacyPolicy" = "Pravila o privatnosti";
+"_SubscriptionDetails" = "Pojedinosti pretplate";
+"_TernsAndConditions" = "Uvjeti i uvjeti";
+"_Restore" = "Vratiti";
+"_GoPro" = "Go Pro";
+"_OneTime" = "Jednom";
+// FEEDBACK
+"_DidYouLikeYour" = "Da li vam se svidio vaš Textro";
+"_FeedbackBody_HowYoufeel" = "Pokušali smo učiniti ovu aplikaciju korisnom i jednostavnom za korištenje. Odaberite kako se osjećate.";
+"_Good" = "Dobro";
+"_Bad" = "Loše";
+"_Excellent" = "izvrstan";
+"_Privacy" = "Privatnost";
+"_NeedHelp" = "Trebate pomoć?";
+"_FeedbackBody_DontWorry" = "Ne brinite, mi smo tu da vam pomognemo.";
+"_GiveSuggestion" = "Dati prijedlog";
+"_GoodDescription" = "Ili možda zatražite novu značajku.";
+"_ThankYou" = "Hvala vam!";
+"_ExcellentDescription" = "Hoćete li napisati pregled na App Storeu?";
+"_ASK_FOR_HELP" = "Pitati za pomoć";
+"_Send" = "Poslati";
+"_ReviewNow" = "Pregledajte odmah";
+"_TapToRemove" = "Dodirnite Za uklanjanje";
+"_MoreInHouseApps"  = "Više aplikacija";
+// EMAIL
+"_EmailServiceNotAvailable" = " Usluga sada nije dostupna.";
+"_WriteYourSuggestionBelow" = "Ovdje napišite svoje probleme ili prijedloge.";
+"_media_report_title" = "Možete li dodati ovaj medij kao privitak ?. Stvarno će nam pomoći da bolje razumijemo problem.";
+"_report_us" = "Prijavi ovaj problem";
+"_media_error_body" = "Nešto je pošlo po zlu dok Dobivanje medija.";
+"_media_error_title" = "Nije pronađen nijedan medij.";
+// onboard
+"_AP_PhotoLibrary" = "Potrebno nam je dopuštenje za pristup vašoj biblioteci fotografija kako bismo čitali i pisali medije na vaš uređaj";
+"_Notification" = "obznana";
+"_AP_Notification" = "Trebamo dozvolu da bi mogli da vas obavijesti od aplikacije o statusu zadatka";
+"_PhotoLibrary" = "Fototeka";
+"_Allow_Access" = "Dopusti pristup";
+// menu
+"_Menu" = "izbornik";
+"_Rate_Us" = "Ocijeni nas";
+"_More_Apps" = "Više aplikacija";
+"_Share_App" = "Udio";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Nije pronađen nijedan dizajn za prijenos";
+"_TranferFailed" = "Transfer nije uspio";
+"_IncorrectZip" = "Neispravan zip";
+"_RestoreFailed" = "Vraćanje nije uspjelo. Pokušajte ponovo.";
+"_Success" = "Uspjeh";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Nedostaju slike. Neki dizajni se možda neće ispravno prikazati";
+"_TransferDesigns" = "Prijenos dizajna";
+"_RestoreDesigns" = "Vrati dizajne";

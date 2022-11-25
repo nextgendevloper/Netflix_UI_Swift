@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "oké";
+"_Done" = "Elkészült";
+"_Cancel" = "Megszünteti";
+"_Back" = "Hát";
+"_OpenSettings" = "Nyissa meg a Beállítások alkalmazást.";
+"_Loading" = "Betöltés...";
+"_Close" = "Bezár";
+"_Alert" = "Alert";
+"_TryAgain" = "Próbáld újra";
+"_Later" = "Majd később";
+"_Font" = "Betűtípus";
+"_Transparency" = "Átláthatóság";
+"_Fonts" = "betűtípusok";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Szín";
+"_COLOR" = "Szín";
+"_Colors" = "Színek";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradiens";
+"_Linear" = "Lineáris";
+"_Radial" = "Sugárirányú";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Úgy tűnik, hogy az adatvédelmi beállításai megakadályozzák, hogy a Fotók könyvtárához férjünk hozzá a Fotók letöltéséhez. A következőket teheti meg:";
+"_askForPhotoPermissionChange_step1_" = "Érintse meg az alábbi Beállítások gomb megnyitása gombot a Beállítások alkalmazás megnyitásához.";
+"_askForPhotoPermissionChange_step3_" = "Nyissa meg ezt az alkalmazást, és próbálja újra.";
+"_askForPhotoPermissionChange_step2_" = "Érintse meg a fotókat, és válassza ki a Minden fénykép vagy Kijelölt fotók";
+"_askForMusicPermissionChange_main_" = "Úgy tűnik, hogy az adatvédelmi beállításai megakadályozzák, hogy hozzáférjünk a Zene könyvtárhoz a Zene letöltéséhez. Ezt az alábbiak szerint javíthatja:";
+"_askForMusicPermissionChange_step1_" = "Érintse meg az alábbi Beállítások gomb megnyitása gombot a Beállítások alkalmazás megnyitásához.";
+"_askForMusicPermissionChange_step3_" = "Nyissa meg ezt az alkalmazást, és próbálja újra.";
+"_askForMusicPermissionChange_step2_" = "Kapcsolja be a kapcsolót a Media & Apple Music előtt";
+"_askForNotificationPermissionChange_main_" = "Úgy tűnik, hogy az adatvédelmi beállításai megakadályozzák, hogy értesítsünk a projekt állapotáról. Azt is rögzíti ezt a következő módon:";
+"_askForNotificationPermissionChange_step1_" = "Érintse meg az alábbi Beállítások gomb megnyitása gombot a Beállítások alkalmazás megnyitásához.";
+"_askForNotificationPermissionChange_step3_" = "Nyissa meg ezt az alkalmazást, és próbálja újra.";
+"_askForNotificationPermissionChange_step2_" = "Érintse meg az Értesítés és BE kapcsoló gombot az értesítés engedélyezéséhez";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Nincs internet";
+"_NoInternet_Body" = " valami elromlott. Kérjük, ellenőrizze az internetkapcsolatot, és próbálja újra.";
+"_ErrorOcuured" = "Hiba lépett fel";
+"_ErrorWhileSaving" = "Hiba mentés közben";
+"_AppNotInstalled" = "Az alkalmazás nincs telepítve.";
+"_AppNotInstalled_Body"= "Először töltse le az alkalmazást az appstore-ból, és próbálja újra.";
+"_SomethingWentWrongPleaseTryAgain" = "Valami elromlott. Kérlek próbáld újra.";///
+"_PermissionError" = "Hozzáférés nem érhető el";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Sikeresen mentve";
+"_Audio_Writing_Failed" = "Nem sikerült dekódolni az Audio-t (lehet, hogy nem támogatott vagy megszakadt fájl)";
+"_Metal_Configuration_Error" = "Hoppá! valami elromlott. Kérlek próbáld újra.";
+"_VIDEO_ERROR" = "Nem található támogatott videó";
+"_IMAGE_ERROR" = "Hiba történt a kép megszerzése közben. Kérlek próbáld újra.";
+// Text
+"_EnterTextToProceed" = "Kérjük, írjon be egy szöveget ..";
+"_Text" = "Szöveg";
+"_TextEdit" = "Szöveg szerkesztése";
+// VIDEO
+"_TimelapseVideoError_body" = "Ez a videó timelapse típusú.Válasszon egy másik videót a folytatáshoz";
+"_TimelapseVideoError_title" = "TimeLapse videó";
+"_iCloudVideoError_body" = "Ez a videó elérhető az iCloudban. A folytatáshoz először töltse le az iCloudot";
+"_iCloudVideoError_title" = "iCloud Video";
+"_UE_SelectAnother" = "Ismeretlen hiba. Válasszon másik videót";
+"_NoSupportedVideoFound" = "Nem található támogatott videó";
+//IMAGE
+"_Image" = "Kép";
+"_IE_TryAgain" = "Hiba történt a kép megszerzése közben. Kérlek próbáld újra.";
+//MUSIC
+"_Music" = "Zene";
+"_ImportFromItunes" = "Importálás az ITunesból";
+"_AudioDecodingFailed" = "Nem sikerült dekódolni az Audio-t (lehet, hogy nem támogatott vagy megszakadt fájl)";
+"_SongNotAvailable" = "A dal nem érhető el";
+"_SongAdded" = "Dal hozzáadva";
+"_SongDRMProtected_Body1" = "Ezt a dalt az DRM védi az Apple zene";
+"_SongDRMProtected_Body2" = "  Kérjük, válassza az offline zenét";
+"_SongLoaded"="Dal betöltve";
+// ERRORS
+"_ErrorInSelection" = "Hiba a kiválasztásban";
+"_Error" = "tévedés";
+"_NoInternet_Body" = " valami elromlott. Kérjük, ellenőrizze az internetkapcsolatot, és próbálja újra.";
+"_ErrorWhileSaving" = "Hiba mentés közben";
+"_SWW_TryAgain" = "Hoppá! valami elromlott. Kérlek próbáld újra.";
+// IAP
+"_RestoreSuccessfully" = "Sikeresen helyreállították.";
+"_NoWatermark" = "* Nincs vízjel";
+"_NoAds" = "Nincsenek hirdetések";
+"_PrivacyPolicy" = "Adatvédelmi irányelvek";
+"_SubscriptionDetails" = "Előfizetési részletek";
+"_TernsAndConditions" = "Feltételek és kikötések";
+"_Restore" = "visszaad";
+"_GoPro" = "Go Pro";
+"_OneTime" = "Egyszer";
+// FEEDBACK
+"_DidYouLikeYour" = "Did you like your Textro ";
+"_FeedbackBody_HowYoufeel" = "Megpróbáltuk, hogy ez az alkalmazás hasznos és könnyen használható legyen. Kérjük, válassza ki, hogyan érzi magát.";
+"_Good" = "Jó";
+"_Bad" = "Rossz";
+"_Excellent" = "Kiváló";
+"_Privacy" = "Privacy";
+"_NeedHelp" = "Kell segítség?";
+"_FeedbackBody_DontWorry" = "Ne aggódj, itt vagyunk, hogy segítsünk.";
+"_GiveSuggestion" = "Adjon javaslatot";
+"_GoodDescription" = "Vagy talán kérjen új funkciót.";
+"_ThankYou" = "Köszönöm!";
+"_ExcellentDescription" = "0";
+"_ASK_FOR_HELP" = "Kérjen segítséget";
+"_Send" = "Elküld";
+"_ReviewNow" = "felülvizsgálata most";
+"_TapToRemove" = "Koppintson az Eltávolítás gombra";
+"_MoreInHouseApps"  = "More Apps";
+// EMAIL
+"_EmailServiceNotAvailable" = " A szolgáltatás jelenleg nem elérhető.";
+"_WriteYourSuggestionBelow" = "Írja be a problémáit vagy javaslatait itt ..";
+"_media_report_title" = "Can you please add this media as an attachment?. It will really help us better to understand the issue .";
+"_report_us" = "Jelentés erről a problémáról";
+"_media_error_body" = "Valami elromlott  míg szerzés média.";
+"_media_error_title" = "Nem található média.";
+// onboard
+"_AP_PhotoLibrary" = "Engedélyre van szükségünk ahhoz, hogy hozzáférjünk a fényképtárához, hogy médiát olvashassunk és írhassunk eszközére";
+"_Notification" = "Értesítés";
+"_AP_Notification" = "Engedélyre van szükségünk, hogy értesíthessük Önt az alkalmazásról a feladat állapotáról";
+"_PhotoLibrary" = "Fotókönyvtár";
+"_Allow_Access" = "Hozzáférést enged";
+// menu
+"_Menu" = "Menü";
+"_Rate_Us" = "Értékeld minket";
+"_More_Apps" = "More Apps";
+"_Share_App" = "Részvény";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Nem található átutalandó designs";
+"_TranferFailed" = "Az átvitel sikertelen";
+"_IncorrectZip" = "Helytelen Zip";
+"_RestoreFailed" = "Visszaállítása nem sikerült. Próbáld újra.";
+"_Success" = "Success";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Képek hiányoznak. Előfordulhat, hogy egyes designs nem jelennek meg megfelelően";
+"_TransferDesigns" = "Transzfer Designs";
+"_RestoreDesigns" = "Restore Designs";

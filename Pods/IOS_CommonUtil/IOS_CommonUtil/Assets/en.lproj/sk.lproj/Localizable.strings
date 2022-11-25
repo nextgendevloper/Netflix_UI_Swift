@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "OK";
+"_Done" = "hotový";
+"_Cancel" = "Zrušiť";
+"_Back" = "späť";
+"_OpenSettings" = "Otvorte aplikáciu Nastavenia.";
+"_Loading" = "Načítava...";
+"_Close" = "Zavrieť";
+"_Alert" = "Alert";
+"_TryAgain" = "Skúste to znova";
+"_Later" = "neskôr";
+"_Font" = "font";
+"_Transparency" = "Transparentnosť";
+"_Fonts" = "fonty";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "farba";
+"_COLOR" = "farba";
+"_Colors" = "farby";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Gradient";
+"_Linear" = "lineárny";
+"_Radial" = "radiálne";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Zdá sa, že vaše nastavenia ochrany osobných údajov nám bránia v prístupe do vašej knižnice fotografií na načítanie fotografií. Môžete to vyriešiť takto:";
+"_askForPhotoPermissionChange_step1_" = "Klepnutím na tlačidlo Otvoriť nastavenie nižšie otvoríte aplikáciu Nastavenia.";
+"_askForPhotoPermissionChange_step3_" = "Otvorte túto aplikáciu a skúste to znova.";
+"_askForPhotoPermissionChange_step2_" = "Klepnite na Fotky a vyberte Všetky fotografie alebo Vybraté fotografie";
+"_askForMusicPermissionChange_main_" = "Zdá sa, že vaše nastavenia ochrany osobných údajov nám bránia v prístupe do vašej hudobnej knižnice a načúvaní hudby. Môžete to vyriešiť nasledujúcim spôsobom:";
+"_askForMusicPermissionChange_step1_" = "Klepnutím na tlačidlo Otvoriť nastavenie nižšie otvoríte aplikáciu Nastavenia.";
+"_askForMusicPermissionChange_step3_" = "Otvorte túto aplikáciu a skúste to znova.";
+"_askForMusicPermissionChange_step2_" = "Zapnite prepínače v prednej časti médií a Apple Music";
+"_askForNotificationPermissionChange_main_" = "Zdá sa, že vaše nastavenia ochrany osobných údajov nám bránia v tom, aby sme vás informovali o stave vášho projektu. Môžete to vyriešiť takto:";
+"_askForNotificationPermissionChange_step1_" = "Klepnutím na tlačidlo Otvoriť nastavenie nižšie otvoríte aplikáciu Nastavenia.";
+"_askForNotificationPermissionChange_step3_" = "Otvorte túto aplikáciu a skúste to znova.";
+"_askForNotificationPermissionChange_step2_" = "Kliknite na oznámenia a zapínať prepnúť, aby oznámenie";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Žiadny internet";
+"_NoInternet_Body" = " niečo sa pokazilo. Skontrolujte internetové pripojenie a skúste to znova.";
+"_ErrorOcuured" = "Vyskytla sa chyba";
+"_ErrorWhileSaving" = "Chyba zatiaľ čo ukladaní";
+"_AppNotInstalled" = "Aplikácia nie je nainštalovaná.";
+"_AppNotInstalled_Body"= "Najskôr si stiahnite aplikáciu z obchodu s aplikáciami a skúste to znova.";
+"_SomethingWentWrongPleaseTryAgain" = "Niečo sa pokazilo. Prosím skúste znova";///
+"_PermissionError" = "Prístup nie je k dispozícii";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Úspešne uložené";
+"_Audio_Writing_Failed" = "Nie je možné dekódovať zvuk (môže byť nepodporovaný alebo súbor s prerušením)";
+"_Metal_Configuration_Error" = "Och! niečo sa pokazilo. Prosím skúste znova.";
+"_VIDEO_ERROR" = "Nebolo nájdené žiadne podporované video";
+"_IMAGE_ERROR" = "Chyba pri získavaní obrázka. Prosím skúste znova.";
+// Text
+"_EnterTextToProceed" = "Zadajte nejaký text.";
+"_Text" = "text";
+"_TextEdit" = "Upraviť text";
+// VIDEO
+"_TimelapseVideoError_body" = "Toto video je typu timelapse. Vyberte ďalšie a pokračujte";
+"_TimelapseVideoError_title" = "Video TimeLapse";
+"_iCloudVideoError_body" = "Toto video je k dispozícii na stránke iCloud. Pokračujte stiahnutím prvého z iCloud";
+"_iCloudVideoError_title" = "iCloud Video";
+"_UE_SelectAnother" = "Neznáma chyba. Vyberte ďalšie video";
+"_NoSupportedVideoFound" = "Nebolo nájdené žiadne podporované video";
+//IMAGE
+"_Image" = "obraz";
+"_IE_TryAgain" = "Chyba pri získavaní obrázka. Prosím skúste znova.";
+//MUSIC
+"_Music" = "hudba";
+"_ImportFromItunes" = "Importovať z ITunes";
+"_AudioDecodingFailed" = "Nie je možné dekódovať zvuk (môže byť nepodporovaný alebo súbor s prerušením)";
+"_SongNotAvailable" = "Song Nie je k dispozícii";
+"_SongAdded" = "Skladba bola pridaná";
+"_SongDRMProtected_Body1" = "Táto pieseň je DRM Protected Apple hudby";
+"_SongDRMProtected_Body2" = " Vyberte hudbu offline";
+"_SongLoaded"="pieseň Naložený";
+// ERRORS
+"_ErrorInSelection" = "Chyba pri výbere";
+"_Error" = "Error";
+"_NoInternet_Body" = " niečo sa pokazilo. Skontrolujte internetové pripojenie a skúste to znova.";
+"_ErrorWhileSaving" = "Chyba zatiaľ čo ukladaní";
+"_SWW_TryAgain" = "Och! niečo sa pokazilo. Prosím skúste znova.";
+// IAP
+"_RestoreSuccessfully" = "Úspešne obnovené.";
+"_NoWatermark" = "* Bez vodoznaku";
+"_NoAds" = "Žiadne reklamy";
+"_PrivacyPolicy" = "Zásady ochrany osobných údajov";
+"_SubscriptionDetails" = "Podrobnosti o odbere";
+"_TernsAndConditions" = "Podmienky a podmienky";
+"_Restore" = "obnovi";
+"_GoPro" = "Go Pro";
+"_OneTime" = "One Time";
+// FEEDBACK
+"_DidYouLikeYour" = "Did vy ako váš Textro";
+"_FeedbackBody_HowYoufeel" = "Snažili sme sa, aby táto aplikácia bola užitočná a ľahko použiteľná. Vyberte, ako sa cítite.";
+"_Good" = "dobrý";
+"_Bad" = "zlý";
+"_Excellent" = "vynikajúci";
+"_Privacy" = "súkromie";
+"_NeedHelp" = "Potrebovať pomoc?";
+"_FeedbackBody_DontWorry" = "Nebojte sa, sme tu, aby sme vám pomohli.";
+"_GiveSuggestion" = "Dajte návrh";
+"_GoodDescription" = "Alebo možno požiadajte o novú funkciu.";
+"_ThankYou" = "Ďakujem!";
+"_ExcellentDescription" = "Napíšte recenziu na App Store?";
+"_ASK_FOR_HELP" = "Požiadať o pomoc";
+"_Send" = "poslať";
+"_ReviewNow" = "preskúma teraz";
+"_TapToRemove" = "Ťuknite na položku Odstrániť";
+"_MoreInHouseApps"  = "Ďalšie aplikácie";
+// EMAIL
+"_EmailServiceNotAvailable" = " Služba nie je teraz k dispozícii.";
+"_WriteYourSuggestionBelow" = "Tu napíšte svoje problémy alebo návrhy ..";
+"_media_report_title" = "Môžete mi prosím Pridajte médiá ako prílohu?. Bude to naozaj pomôže nám lepšie pochopiť problematiku.";
+"_report_us" = "Nahlásiť tento problém";
+"_media_error_body" = "Niečo sa pokazilo a zároveň získať médiá.";
+"_media_error_title" = "Nenašli sa žiadne médiá.";
+// onboard
+"_AP_PhotoLibrary" = "Potrebujeme povolenie na prístup do vašej knižnice fotografií, aby sme mohli čítať a zapisovať médiá do vášho zariadenia";
+"_Notification" = "Notification";
+"_AP_Notification" = "Potrebujeme povolenie, aby sme vás mohli z aplikácie informovať o stave úlohy";
+"_PhotoLibrary" = "Knižnica fotografií";
+"_Allow_Access" = "Povoliť prístup";
+// menu
+"_Menu" = "Menu";
+"_Rate_Us" = "Ohodnoť nás";
+"_More_Apps" = "Ďalšie aplikácie";
+"_Share_App" = "zdieľam";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "nie dizajnov Nájdené na prenos";
+"_TranferFailed" = "Transfer zlyhal";
+"_IncorrectZip" = "Nesprávny Zip";
+"_RestoreFailed" = "obnovi Zlyhalo. Skúste to znova.";
+"_Success" = "úspech";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Chýbajú obrázky. Niektoré dizajny sa nemusia správne zobraziť";
+"_TransferDesigns" = "Prestup Dizajny";
+"_RestoreDesigns" = "Obnoviť Dizajny";

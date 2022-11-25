@@ -1,0 +1,142 @@
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "OK";
+"_Done" = "完了";
+"_Cancel" = "キャンセル";
+"_Back" = "バック";
+"_OpenSettings" = "設定アプリを開きます。";
+"_Loading" = "読み込み中...";
+"_Close" = "クローズ";
+"_Alert" = "アラート";
+"_TryAgain" = "再試行する";
+"_Later" = "後で";
+"_Font" = "フォント";
+"_Transparency" = "透明性";
+"_Fonts" = "フォント";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "色";
+"_COLOR" = "色";
+"_Colors" = "色";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "グラディエント";
+"_Linear" = "リニア";
+"_Radial" = "ラジアル";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "プライバシー設定により、フォトライブラリにアクセスして写真を取得できなくなっているようです。You can fix this by doing the following:";
+"_askForPhotoPermissionChange_step1_" = "下の[設定を開く]ボタンをタップして、設定アプリを開きます。";
+"_askForPhotoPermissionChange_step3_" = "このアプリを開いてもう一度お試しください。";
+"_askForPhotoPermissionChange_step2_" = "写真をタップして、すべての写真または選択した写真を選択します";
+"_askForMusicPermissionChange_main_" = "プライバシー設定により、ミュージックを取得するためのミュージックライブラリへのアクセスが禁止されているようです。これを修正するには、次を実行します。";
+"_askForMusicPermissionChange_step1_" = "下の[設定を開く]ボタンをタップして、設定アプリを開きます。";
+"_askForMusicPermissionChange_step3_" = "このアプリを開いてもう一度お試しください。";
+"_askForMusicPermissionChange_step2_" = "Media＆Apple Musicの前にあるトグルスイッチをオンにします";
+"_askForNotificationPermissionChange_main_" = "プライバシー設定は、プロジェクトのステータスについてあなたに通知するから私たちを妨げているように見えます。 これを修正するには、次の手順を実行します。";
+"_askForNotificationPermissionChange_step1_" = "下の[設定を開く]ボタンをタップして、設定アプリを開きます。";
+"_askForNotificationPermissionChange_step3_" = "このアプリを開いてもう一度お試しください。";
+"_askForNotificationPermissionChange_step2_" = "通知を許可する通知とトグルONスイッチをタップ";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "インターネットがない";
+"_NoInternet_Body" = " 何かがうまくいかなかった。インターネット接続を確認してもう一度やり直してください。";
+"_ErrorOcuured" = "エラーが発生";
+"_ErrorWhileSaving" = "保存中にエラーが発生しました";
+"_AppNotInstalled" = "アプリがインストールされていません。";
+"_AppNotInstalled_Body"= "最初にアプリストアからアプリをダウンロードして、もう一度お試しください。";
+"_SomethingWentWrongPleaseTryAgain" = "何かがうまくいかなかった。 もう一度やり直してください。";///
+"_PermissionError" = "アクセスではありません 利用可能";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "正常に保存されました";
+"_Audio_Writing_Failed" = "音声をデコードできません（サポートされていないかファイルが壊れている可能性があります）";
+"_Metal_Configuration_Error" = "おっとっと！何かがうまくいかなかった。もう一度やり直してください。";
+"_VIDEO_ERROR" = "サポートされるビデオ見つかりません";
+"_IMAGE_ERROR" = "画像取得中にエラーが発生しました。もう一度やり直してください。";
+// Text
+"_EnterTextToProceed" = "テキストを入力してください。";
+"_Text" = "テキスト";
+"_TextEdit" = "テキストを編集";
+// VIDEO
+"_TimelapseVideoError_body" = "この動画は微速度撮影タイプです。続行するには別の動画を選択してください";
+"_TimelapseVideoError_title" = "タイムラプスビデオ";
+"_iCloudVideoError_body" = "このビデオはiCloudで利用できます。続行するには、まずiCloudからダウンロードしてください";
+"_iCloudVideoError_title" = "iCloudビデオ";
+"_UE_SelectAnother" = "未知のエラー。別の動画を選択してください";
+"_NoSupportedVideoFound" = "サポートされるビデオ見つかりません";
+//IMAGE
+"_Image" = "画像";
+"_IE_TryAgain" = "画像取得中にエラーが発生しました。もう一度やり直してください。";
+//MUSIC
+"_Music" = "音楽";
+"_ImportFromItunes" = "iTunesからインポート";
+"_AudioDecodingFailed" = "音声をデコードできません（サポートされていないかファイルが壊れている可能性があります）";
+"_SongNotAvailable" = "曲は利用できません";
+"_SongAdded" = "曲が追加されました";
+"_SongDRMProtected_Body1" = "この曲はApple音楽で保護されたDRMです";
+"_SongDRMProtected_Body2" = " オフライン音楽を選択してください";
+"_SongLoaded"="ロードされた歌";
+// ERRORS
+"_ErrorInSelection" = "選択中のエラー";
+"_Error" = "エラー";
+"_NoInternet_Body" = " 何かがうまくいかなかった。インターネット接続を確認してもう一度やり直してください。";
+"_ErrorWhileSaving" = "保存中にエラーが発生しました";
+"_SWW_TryAgain" = "おっとっと！何かがうまくいかなかった。もう一度やり直してください。";
+// IAP
+"_RestoreSuccessfully" = "正常に復元されました。";
+"_NoWatermark" = "*透かしなし";
+"_NoAds" = "広告なし";
+"_PrivacyPolicy" = "個人情報保護方針";
+"_SubscriptionDetails" = "購読の詳細";
+"_TernsAndConditions" = "利用規約と条件";
+"_Restore" = "リストア";
+"_GoPro" = "プロ行きます";
+"_OneTime" = "一度";
+// FEEDBACK
+"_DidYouLikeYour" = "あなたのTextroが好きでしたか";
+"_FeedbackBody_HowYoufeel" = "私たちはこのアプリを便利で使いやすくすることを試みました。あなたの気持ちを選んでください。";
+"_Good" = "良い";
+"_Bad" = "悪い";
+"_Excellent" = "優秀な";
+"_Privacy" = "プライバシー";
+"_NeedHelp" = "助けが必要？";
+"_FeedbackBody_DontWorry" = "心配しないで、私たちはあなたを助けるためにここにいます。";
+"_GiveSuggestion" = "提案を与える";
+"_GoodDescription" = "あるいは、新しい機能を要求してください。";
+"_ThankYou" = "ありがとうございました！";
+"_ExcellentDescription" = "意志 あなたは、App Storeでのレビューを書きます";
+"_ASK_FOR_HELP" = "助けを求める";
+"_Send" = "送る";
+"_ReviewNow" = "見直し今";
+"_TapToRemove" = "タップして削除";
+"_MoreInHouseApps"  = "より多くのアプリケーション";
+// EMAIL
+"_EmailServiceNotAvailable" = " サービスは現在ご利用いただけません。";
+"_WriteYourSuggestionBelow" = "ここにあなたの問題や提案を書いてください。";
+"_media_report_title" = "このメディアを添付ファイルとして追加していただけますか？ それは私たちが問題をよりよく理解するのに本当に役立ちます。";
+"_report_us" = "この問題を報告";
+"_media_error_body" = "「メディアの取得中に何かが間違っていました。";
+"_media_error_title" = "メディアが見つかりません。";
+// onboard
+"_AP_PhotoLibrary" = "デバイスでメディアを読み書きするには、フォトライブラリにアクセスするための許可が必要です";
+"_Notification" = "通知";
+"_AP_Notification" = "タスクのステータスについてアプリから通知できるようにするには、許可が必要です";
+"_PhotoLibrary" = "フォトライブラリ";
+"_Allow_Access" = "アクセスを許可します";
+// menu
+"_Menu" = "メニュー";
+"_Rate_Us" = "私たちを評価してください";
+"_More_Apps" = "より多くのアプリケーション";
+"_Share_App" = "シェア";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "転送するデザインが見つかりません";
+"_TranferFailed" = "転送に失敗しました";
+"_IncorrectZip" = "間違ったzip";
+"_RestoreFailed" = "「リストア」に失敗しましたトライ「アゲイン 『』";
+"_Success" = "成功";
+"_ImagesMissingDesignsMayNotDisplayProper" = "画像が欠落しています。 一部のデザインは正しく表示されない場合があります";
+"_TransferDesigns" = "転送デザイン";
+"_RestoreDesigns" = "デザインを復元する";

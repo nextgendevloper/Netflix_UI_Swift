@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "tamam";
+"_Done" = "Bitti";
+"_Cancel" = "İptal etmek";
+"_Back" = "Geri";
+"_OpenSettings" = "Ayarlar uygulamasını açın.";
+"_Loading" = "Yükleniyor...";
+"_Close" = "Kapat";
+"_Alert" = "Alert";
+"_TryAgain" = "Tekrar deneyin";
+"_Later" = "Daha sonra";
+"_Font" = "Yazı tipi";
+"_Transparency" = "Şeffaflık";
+"_Fonts" = "Fontlar";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Renk";
+"_COLOR" = "Renk";
+"_Colors" = "Renkler";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "meyil";
+"_Linear" = "Doğrusal";
+"_Radial" = "Radyal";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Görünüşe göre gizlilik ayarlarınız, Fotoğrafları getirmek için Fotoğraf Kitaplığınıza erişmemizi engelliyor. Aşağıdakileri yaparak bunu düzeltebilirsiniz:";
+"_askForPhotoPermissionChange_step1_" = "Ayarlar uygulamasını açmak için aşağıdaki Ayarları Aç düğmesine dokunun.";
+"_askForPhotoPermissionChange_step3_" = "Bu uygulamayı açın ve tekrar deneyin.";
+"_askForPhotoPermissionChange_step2_" = "Fotoğraflar'a dokunun ve Tüm Fotoğraflar veya Seçili Fotoğraflar'ı seçin";
+"_askForMusicPermissionChange_main_" = "Görünen o ki gizlilik ayarlarınız Müzik almak için Müzik Kitaplığınıza erişmemizi engelliyor. Aşağıdakileri yaparak bunu düzeltebilirsiniz:";
+"_askForMusicPermissionChange_step1_" = "Ayarlar uygulamasını açmak için aşağıdaki Ayarları Aç düğmesine dokunun.";
+"_askForMusicPermissionChange_step3_" = "Bu uygulamayı açın ve tekrar deneyin.";
+"_askForMusicPermissionChange_step2_" = "Medya ve Apple Music'in önündeki geçiş anahtarını açın";
+"_askForNotificationPermissionChange_main_" = "Gizlilik ayarlarınız, proje durumunuz hakkında sizi bilgilendirmemizi engelliyor gibi görünüyor. Aşağıdakileri yaparak bunu düzeltebilirsiniz:";
+"_askForNotificationPermissionChange_step1_" = "Ayarlar uygulamasını açmak için aşağıdaki Ayarları Aç düğmesine dokunun.";
+"_askForNotificationPermissionChange_step3_" = "Bu uygulamayı açın ve tekrar deneyin.";
+"_askForNotificationPermissionChange_step2_" = "Bildirime izin vermek için Bildirim'e dokunun ve AÇIK konuma getirin";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "İnternet yok";
+"_NoInternet_Body" = " bir şeyler yanlış gitti. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.";
+"_ErrorOcuured" = "Hata oluştu";
+"_ErrorWhileSaving" = "Kaydederken hata";
+"_AppNotInstalled" = "Uygulama yüklenmedi.";
+"_AppNotInstalled_Body"= "Lütfen önce uygulama mağazasından uygulamayı indirin ve tekrar deneyin.";
+"_SomethingWentWrongPleaseTryAgain" = "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.";///
+"_PermissionError" = "mevcut değil Erişim";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Saved başarılı olarak";
+"_Audio_Writing_Failed" = "Audio kodu çözülemedi (desteklenmeyen veya bozuk dosya olabilir)";
+"_Metal_Configuration_Error" = "Hata! bir şeyler yanlış gitti. Lütfen tekrar deneyin.";
+"_VIDEO_ERROR" = "Desteklenen Video bulunamadı";
+"_IMAGE_ERROR" = "Resim alınırken hata oluştu. Lütfen tekrar deneyin.";
+// Text
+"_EnterTextToProceed" = "Lütfen bir metin giriniz ..";
+"_Text" = "Metin";
+"_TextEdit" = "Metni düzenle";
+// VIDEO
+"_TimelapseVideoError_body" = "Bu video timelapse türüdür. Devam etmek için lütfen başka bir tane seçin";
+"_TimelapseVideoError_title" = "TimeLapse Video";
+"_iCloudVideoError_body" = "Bu video iCloud'da mevcuttur. Devam etmek için lütfen önce iCloud'dan indirin";
+"_iCloudVideoError_title" = "iCloud Video";
+"_UE_SelectAnother" = "Bilinmeyen hata. Lütfen Başka Bir Video Seç";
+"_NoSupportedVideoFound" = "Desteklenen Video bulunamadı";
+//IMAGE
+"_Image" = "görüntü";
+"_IE_TryAgain" = "Resim alınırken hata oluştu. Lütfen tekrar deneyin.";
+//MUSIC
+"_Music" = "Müzik";
+"_ImportFromItunes" = "ITunes'dan İçe Aktar";
+"_AudioDecodingFailed" = "Audio kodu çözülemedi (desteklenmeyen veya bozuk dosya olabilir)";
+"_SongNotAvailable" = "Şarkı Mevcut Değil";
+"_SongAdded" = "Şarkı Eklendi";
+"_SongDRMProtected_Body1" = "Bu şarkı DRM tarafından korunmuştur Apple music";
+"_SongDRMProtected_Body2" = " Lütfen çevrimdışı müzik seç";
+"_SongLoaded"="Şarkı yüklü";
+// ERRORS
+"_ErrorInSelection" = "Seçimde Hata";
+"_Error" = "Hata";
+"_NoInternet_Body" = " bir şeyler yanlış gitti. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.";
+"_ErrorWhileSaving" = "Kaydederken hata";
+"_SWW_TryAgain" = "Hata! bir şeyler yanlış gitti. Lütfen tekrar deneyin.";
+// IAP
+"_RestoreSuccessfully" = "Başarıyla Geri Yüklendi.";
+"_NoWatermark" = "* Filigran Yok";
+"_NoAds" = "Reklamsız";
+"_PrivacyPolicy" = "Gizlilik Politikası";
+"_SubscriptionDetails" = "Abonelik Detayları";
+"_TernsAndConditions" = "Şartlar ve koşullar";
+"_Restore" = "Restore";
+"_GoPro" = "Go Pro";
+"_OneTime" = "Bir kere";
+// FEEDBACK
+"_DidYouLikeYour" = "Textro'nuzu beğendiniz mi?";
+"_FeedbackBody_HowYoufeel" = "Bu uygulamayı yararlı ve kullanımı kolay hale getirmeye çalıştık. Lütfen nasıl hissettiğinizi seçin.";
+"_Good" = "İyi";
+"_Bad" = "Kötü";
+"_Excellent" = "Mükemmel";
+"_Privacy" = "Gizlilik";
+"_NeedHelp" = "Yardıma mı ihtiyacınız var?";
+"_FeedbackBody_DontWorry" = "Endişelenme, biz sana yardım etmek için buradayız.";
+"_GiveSuggestion" = "Öneri ver";
+"_GoodDescription" = "Ya da belki, yeni bir özellik isteyin.";
+"_ThankYou" = "Teşekkür ederim!";
+"_ExcellentDescription" = "App Store'da Bir İnceleme Yazacak mısınız?";
+"_ASK_FOR_HELP" = "Ask for Help";
+"_Send" = "göndermek";
+"_ReviewNow" = "Şimdi İnceleyin";
+"_TapToRemove" = "Kaldırmak için dokunun";
+"_MoreInHouseApps"  = "Daha fazla uygulama";
+// EMAIL
+"_EmailServiceNotAvailable" = " Hizmet şu anda mevcut değil.";
+"_WriteYourSuggestionBelow" = "Sorunlarınızı veya önerilerinizi buraya yazın.";
+"_media_report_title" = "Lütfen bu medyayı ek olarak ekleyebilir misiniz? Sorunu daha iyi anlamamıza gerçekten yardımcı olacak.";
+"_report_us" = "Bu sorunu bildirin";
+"_media_error_body" = "Medya alınırken bir şeyler ters gitti.";
+"_media_error_title" = "Hayır Medya buldum.";
+// onboard
+"_AP_PhotoLibrary" = "Cihazınızda medya okumak ve yazmak için fotoğraf kitaplığınıza erişim iznine ihtiyacımız var";
+"_Notification" = "Bildirim";
+"_AP_Notification" = "Görev durumu hakkında sizi uygulamadan bilgilendirebilmemiz için izne ihtiyacımız var";
+"_PhotoLibrary" = "Fotoğraf kütüphanesi";
+"_Allow_Access" = "Erişime izin vermek";
+// menu
+"_Menu" = "Menü";
+"_Rate_Us" = "Bize Puan Verin";
+"_More_Apps" = "Daha fazla uygulama";
+"_Share_App" = "Pay";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Aktarılacak tasarım bulunamadı";
+"_TranferFailed" = "Aktarım Başarısız";
+"_IncorrectZip" = "Yanlış Zip";
+"_RestoreFailed" = "Geri Yükleme Başarısız. Tekrar deneyin.";
+"_Success" = "başarı";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Görüntüler Eksik. Bazı Tasarımlar Düzgün Görüntülenmeyebilir";
+"_TransferDesigns" = "Transfer Tasarımları";
+"_RestoreDesigns" = "Tasarımları Geri Yükle";

@@ -1,0 +1,143 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "باشه";
+"_Done" = "انجام شده";
+"_Cancel" = "لغو";
+"_Back" = "پشت";
+"_OpenSettings" = "برنامه تنظیمات را باز کنید.";
+"_Loading" = "در حال بارگیری";
+"_Close" = "نزدیک";
+"_Alert" = "Alert";
+"_TryAgain" = "دوباره امتحان کنید";
+"_Later" = "بعدا";
+"_Font" = "فونت";
+"_Transparency" = "شفافیت";
+"_Fonts" = "فونت ها";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "رنگ";
+"_COLOR" = "رنگ";
+"_Colors" = "رنگ ها";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "گرادیان";
+"_Linear" = "خطی";
+"_Radial" = "شعاعی";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "به نظر می رسد تنظیمات حریم خصوصی شما از دسترسی ما به کتابخانه عکس شما برای گرفتن عکس جلوگیری می کند. با انجام موارد زیر می توانید این مشکل را برطرف کنید:";
+"_askForPhotoPermissionChange_step1_" = "دکمه Open Settings را در زیر لمس کنید تا برنامه تنظیمات باز شود.";
+"_askForPhotoPermissionChange_step3_" = "این برنامه را باز کنید و دوباره امتحان کنید.";
+"_askForPhotoPermissionChange_step2_" = "روی Photos ضربه بزنید و All Photos یا Selected Photos را انتخاب کنید";
+"_askForMusicPermissionChange_main_" = "به نظر می رسد تنظیمات حریم خصوصی شما مانع دسترسی ما به کتابخانه موسیقی شما برای بدست آوردن موسیقی می شود. می توانید با انجام موارد زیر این مشکل را برطرف کنید:";
+"_askForMusicPermissionChange_step1_" = "دکمه Open Settings را در زیر لمس کنید تا برنامه تنظیمات باز شود.";
+"_askForMusicPermissionChange_step3_" = "این برنامه را باز کنید و دوباره امتحان کنید.";
+"_askForMusicPermissionChange_step2_" = "سوئیچ ضامن را جلوی Media & Apple Music روشن کنید";
+"_askForNotificationPermissionChange_main_" = "به نظر می رسد تنظیمات حریم خصوصی خود را به ما از اطلاع شما در مورد وضعیت پروژه خود را جلوگیری از. با انجام موارد زیر می توانید این مشکل را برطرف کنید:";
+"_askForNotificationPermissionChange_step1_" = "دکمه Open Settings را در زیر لمس کنید تا برنامه تنظیمات باز شود.";
+"_askForNotificationPermissionChange_step3_" = "این برنامه را باز کنید و دوباره امتحان کنید.";
+"_askForNotificationPermissionChange_step2_" = "برای اجازه دادن به اعلان ، روی گزینه Notification و Toggle ON ضربه بزنید";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "بدون اینترنت";
+"_NoInternet_Body" = " چیزی اشتباه رفت لطفا اتصال اینترنت خود را بررسی کنید و دوباره امتحان کنید.";
+"_ErrorOcuured" = "خطایی روی داد";
+"_ErrorWhileSaving" = "خطا در هنگام ذخیره";
+"_AppNotInstalled" = "برنامه نصب نشده است";
+"_AppNotInstalled_Body"= "لطفاً ابتدا برنامه را از فروشگاه Appstore بارگیری کنید و دوباره امتحان کنید.";
+"_SomethingWentWrongPleaseTryAgain" = "مشکلی پیش آمد لطفا دوباره تلاش کنید. (";///
+"_PermissionError" = "دسترسی در دسترس نیست";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "با موفقیت ذخیره شد";
+"_Audio_Writing_Failed" = "قادر به رمزگشایی صوتی (ممکن است فایل پشتیبانی نشده یا فاسد باشد)";
+"_Metal_Configuration_Error" = "وای! چیزی اشتباه رفت لطفا دوباره تلاش کنید.";
+"_VIDEO_ERROR" = "هیچ ویدیویی پشتیبانی نشده یافت نشد";
+"_IMAGE_ERROR" = "هنگام گرفتن عکس خطایی لطفا دوباره تلاش کنید.";
+// Text
+"_EnterTextToProceed" = "لطفا یک متن را وارد کنید";
+"_Text" = "متن";
+"_TextEdit" = "ویرایش متن";
+// VIDEO
+"_TimelapseVideoError_body" = "این فیلم از نوع timelapse است. برای ادامه ، لطفاً دیگری را انتخاب کنید";
+"_TimelapseVideoError_title" = "TimeLapse Video";
+"_iCloudVideoError_body" = "این فیلم در iCloud در دسترس است. لطفاً برای ادامه بار دیگر از iCloud بارگیری کنید";
+"_iCloudVideoError_title" = "ویدئو iCloud";
+"_UE_SelectAnother" = "خطای ناشناخته. لطفا ویدیوی دیگری را انتخاب کنید";
+"_NoSupportedVideoFound" = "هیچ ویدیویی پشتیبانی نشده یافت نشد";
+//IMAGE
+"_Image" = "تصویر";
+"_IE_TryAgain" = "هنگام گرفتن عکس خطایی لطفا دوباره تلاش کنید.";
+//MUSIC
+"_Music" = "موسیقی";
+"_ImportFromItunes" = "واردات از ITunes";
+"_AudioDecodingFailed" = "قادر به رمزگشایی صوتی (ممکن است فایل پشتیبانی نشده یا فاسد باشد)";
+"_SongNotAvailable" = "آهنگ موجود نیست";
+"_SongAdded" = "آهنگ اضافه شد";
+"_SongDRMProtected_Body1" = "این آهنگ DRM حفاظت شده توسط موسیقی اپل";
+"_SongDRMProtected_Body2" = "  لطفاً موسیقی آفلاین را انتخاب کنید";
+"_SongLoaded"="Song Loaded";
+// ERRORS
+"_ErrorInSelection" = "خطا در انتخاب";
+"_Error" = "خطا";
+"_NoInternet_Body" = " چیزی اشتباه رفت لطفا اتصال اینترنت خود را بررسی کنید و دوباره امتحان کنید.";
+"_ErrorWhileSaving" = "خطا در هنگام ذخیره";
+"_SWW_TryAgain" = "وای! چیزی اشتباه رفت لطفا دوباره تلاش کنید.";
+// IAP
+"_RestoreSuccessfully" = "موفقیت آمیز دوباره بازسازی شد.";
+"_NoWatermark" = "No Watermark";
+"_NoAds" = "بدون تبلیغات";
+"_PrivacyPolicy" = "سیاست حفظ حریم خصوصی";
+"_SubscriptionDetails" = "جزئیات اشتراک";
+"_TernsAndConditions" = "شرایط و ضوابط";
+"_Restore" = "بازگرداندن";
+"_GoPro" = "برو طرفدار";
+"_OneTime" = "یک بار";
+// FEEDBACK
+"_DidYouLikeYour" = "آیا دوست دارید Textro خود را";
+"_FeedbackBody_HowYoufeel" = "ما سعی کردیم این برنامه را مفید و آسان برای استفاده قرار دهیم. لطفا چگونگی احساس را انتخاب کنید.";
+"_Good" = "خوب";
+"_Bad" = "بد";
+"_Excellent" = "عالی";
+"_Privacy" = "حریم خصوصی";
+"_NeedHelp" = "کمک خواستن؟";
+"_FeedbackBody_DontWorry" = "نگران نباشید، ما اینجا هستیم تا به شما کمک کنیم.";
+"_GiveSuggestion" = "Give Suggestion";
+"_GoodDescription" = "یا شاید برای یک ویژگی جدید بخواهید.";
+"_ThankYou" = "متشکرم!";
+"_ExcellentDescription" = "آیا یک بررسی در فروشگاه App بنویسید؟";
+"_ASK_FOR_HELP" = "برای راهنمایی بپرسید";
+"_Send" = "ارسال کردن";
+"_ReviewNow" = "بررسی مجدد  اکنون";
+"_TapToRemove" = "ضربه بزنید تا حذف شود";
+"_MoreInHouseApps"  = "برنامه های بیشتر";
+// EMAIL
+"_EmailServiceNotAvailable" = " سرویس در حال حاضر در دسترس نیست";
+"_WriteYourSuggestionBelow" = "مشکلات و پیشنهادات خود را اینجا بنویسید";
+"_media_report_title" = "آیا می توانید لطفا اضافه کردن این رسانه ها به عنوان یک پیوست؟اقعا ما کمک خواهد کرد بهتر برای درک این مسئله است.";
+"_report_us" = "گزارش این مسئله";
+"_media_error_body" = "Something went wrong while getting media.";
+"_media_error_title" = "هیچ رسانه ای یافت نشد.";
+// onboard
+"_AP_PhotoLibrary" = "برای خواندن و نوشتن رسانه در دستگاه شما ، به مجوز دسترسی به کتابخانه عکس شما نیاز داریم";
+"_Notification" = "اطلاع";
+"_AP_Notification" = "ما به اجازه نیاز داریم تا بتوانیم از طریق برنامه وضعیت برنامه را به شما اطلاع دهیم";
+"_PhotoLibrary" = "کتابخانه عکس";
+"_Allow_Access" = "اجازه دسترسی";
+// menu
+"_Menu" = "منو";
+"_Rate_Us" = "به ما رای دهید";
+"_More_Apps" = "برنامه های بیشتر";
+"_Share_App" = "اشتراک گذاری";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "designs  برای انتقال یافت نشد";
+"_TranferFailed" = "انتقال ناموفق بود";
+"_IncorrectZip" = "فایل نادرست";
+"_RestoreFailed" = "بازگرداندن شکست خورد. دوباره سعی کنید.";
+"_Success" = "موفقیت";
+"_ImagesMissingDesignsMayNotDisplayProper" = "تصاویر گم شده اند. برخی از طرح ها ممکن است به درستی نمایش داده نشوند";
+"_TransferDesigns" = "انتقال قالب ها";
+"_RestoreDesigns" = "بازگردانی طرح ها";

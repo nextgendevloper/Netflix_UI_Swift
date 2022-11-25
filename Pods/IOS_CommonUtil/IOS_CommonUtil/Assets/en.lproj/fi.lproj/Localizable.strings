@@ -1,0 +1,144 @@
+
+/*
+Localizable.strings
+Pods
+
+Created by Developer on 10/16/20.
+*/
+
+// Global Keywords --------------------------->>>>>>>>
+"_Ok" = "kunnossa";
+"_Done" = "Done";
+"_Cancel" = "makuloida";
+"_Back" = "Takaisin";
+"_OpenSettings" = "Avaa Asetukset-sovellus.";
+"_Loading" = "Ladataan...";
+"_Close" = "lähelle";
+"_Alert" = "Alert";
+"_TryAgain" = "Yritä uudelleen";
+"_Later" = "Myöhemmin";
+"_Font" = "kirjasinlaji";
+"_Transparency" = "Läpinäkyvyys";
+"_Fonts" = "fontteja";
+// Color Picker --------------------------->>>>>>>>
+"_Color" = "Väri";
+"_COLOR" = "Väri";
+"_Colors" = "värit";
+// Grad Picker --------------------------->>>>>>>>
+"_Gradient" = "Kaltevuus";
+"_Linear" = "Lineaarinen";
+"_Radial" = "säteittäinen";
+// Permissions --------------------------->>>>>>>>
+"_askForPhotoPermissionChange_main_" = "Näyttää siltä, että tietosuoja-asetuksesi estävät meitä pääsemästä valokuvakirjastoosi hakemaan valokuvia. Voit korjata tämän following:";
+"_askForPhotoPermissionChange_step1_" = "Avaa Asetukset-sovellus koskettamalla Avaa asetukset -painiketta alla.";
+"_askForPhotoPermissionChange_step3_" = "Avaa tämä sovellus ja yritä uudelleen.";
+"_askForPhotoPermissionChange_step2_" = "Napauta Valokuvat ja valitse Kaikki valokuvat tai Valitut valokuvat";
+"_askForMusicPermissionChange_main_" = "Näyttää siltä, että tietosuoja-asetukset estävät meitä pääsemästä musiikkikirjastosi noutamaan musiikkia. Voit korjata tämän tekemällä seuraavat:";
+"_askForMusicPermissionChange_step1_" = "Avaa Asetukset-sovellus koskettamalla Avaa asetukset -painiketta alla.";
+"_askForMusicPermissionChange_step3_" = "Avaa tämä sovellus ja yritä uudelleen.";
+"_askForMusicPermissionChange_step2_" = "Kytke kytkin päälle Media & Apple Music -sovelluksen edessä";
+"_askForNotificationPermissionChange_main_" = "Vaikuttaa siltä, että tietosuoja-asetukset estävät meitä sinulle ilmoitettiin projektin tilasta. Voit korjata tämän seuraavasti:";
+"_askForNotificationPermissionChange_step1_" = "Avaa Asetukset-sovellus koskettamalla Avaa asetukset -painiketta alla.";
+"_askForNotificationPermissionChange_step3_" = "Avaa tämä sovellus ja yritä uudelleen.";
+"_askForNotificationPermissionChange_step2_" = "Napauta Ilmoitus ja Vaihda päälle kytkin salliaksesi ilmoituksen";
+// Swift Error --------------------------->>>>>>>>
+"_NoInternet" = "Ei Internetiä";
+"_NoInternet_Body" = " jotain meni pieleen. Tarkista Internet-yhteys ja yritä uudelleen.";
+"_ErrorOcuured" = "Tapahtui virhe";
+"_ErrorWhileSaving" = "Virhe tallennettaessa";
+"_AppNotInstalled" = "Sovellusta ei ole asennettu.";
+"_AppNotInstalled_Body"= "Lataa ensin sovellus App Storesta ja yritä uudelleen.";
+"_SomethingWentWrongPleaseTryAgain" = "Jotain meni pieleen. Yritä uudelleen.";///
+"_PermissionError" = "Pääsy ei ole käytettävissä";
+// Swift Message --------------------------->>>>>>>>
+"_SavedSuccessfully" = "Tallennettu onnistuneesti";
+"_Audio_Writing_Failed" = "kykenemätön dekoodata Ääni (voi olla tuettu tai vioittunut tiedosto)";
+"_Metal_Configuration_Error" = "Oho! jotain meni pieleen. Yritä uudelleen.";
+"_VIDEO_ERROR" = "Tuettua videota ei löytynyt";
+"_IMAGE_ERROR" = "Virhe kuvan saamisessa. Yritä uudelleen.";
+// Text
+"_EnterTextToProceed" = "Ole kiltti Enter jotkut teksti..";
+"_Text" = "Teksti";
+"_TextEdit" = "Muokkaa tekstiä";
+// VIDEO
+"_TimelapseVideoError_body" = "Tämä video on timelapse-tyyppi.Valitse toinen jatkaaksesi";
+"_TimelapseVideoError_title" = "TimeLapse-video";
+"_iCloudVideoError_body" = "Tämä video on saatavana iCloudissa. Jatka lataamalla ensin iCloudista";
+"_iCloudVideoError_title" = "iCloud-video";
+"_UE_SelectAnother" = "Tuntematon virhe. Valitse toinen video";
+"_NoSupportedVideoFound" = "Tuettua videota ei löytynyt";
+//IMAGE
+"_Image" = "Kuva";
+"_IE_TryAgain" = "Virhe kuvan saamisessa. Yritä uudelleen.";
+//MUSIC
+"_Music" = "musiikki";
+"_ImportFromItunes" = "Tuo ITunesista";
+"_AudioDecodingFailed" = "kykenemätön dekoodata Ääni (voi olla tuettu tai vioittunut tiedosto)";
+"_SongNotAvailable" = "Kappaletta ei saatavilla";
+"_SongAdded" = "kappale lisättiin";
+"_SongDRMProtected_Body1" = "Tämä kappale on DRM-suojattu Apple-musiikilla";
+"_SongDRMProtected_Body2" = "  Valitse offline-musiikki";
+"_SongLoaded"="Song Loaded";
+// ERRORS
+"_ErrorInSelection" = "Virhe valinnassa";
+"_Error" = "Virhe";
+"_NoInternet_Body" = " jotain meni pieleen. Tarkista Internet-yhteys ja yritä uudelleen.";
+"_ErrorWhileSaving" = "Virhe tallennettaessa";
+"_SWW_TryAgain" = "Oho! jotain meni pieleen. Yritä uudelleen.";
+// IAP
+"_RestoreSuccessfully" = "Palautettu onnistuneesti.";
+"_NoWatermark" = "* Ei vesileimaa";
+"_NoAds" = "Ei mainoksia";
+"_PrivacyPolicy" = "Tietosuojakäytäntö";
+"_SubscriptionDetails" = "Subscription Details";
+"_TernsAndConditions" = "Ehdot ja kunto";
+"_Restore" = "restauroida";
+"_GoPro" = "Ryhtyä ammattilaiseksi";
+"_OneTime" = "Kerran";
+// FEEDBACK
+"_DidYouLikeYour" = "Piditkö Textro";
+"_FeedbackBody_HowYoufeel" = "Yritimme tehdä tästä sovelluksesta hyödyllisen ja helppokäyttöisen. Valitse, miten tunnet.";
+"_Good" = "Hyvä";
+"_Bad" = "Huono";
+"_Excellent" = "Erinomainen";
+"_Privacy" = "yksityisyys";
+"_NeedHelp" = "Tarvita apua?";
+"_FeedbackBody_DontWorry" = "Älä huoli, olemme täällä auttaaksemme sinua.";
+"_GiveSuggestion" = "Anna ehdotusta";
+"_GoodDescription" = "Tai ehkä pyytää uutta ominaisuutta.";
+"_ThankYou" = "Kiitos!";
+"_ExcellentDescription" = "Kirjoitatko App Storesta katsauksen?";
+"_ASK_FOR_HELP" = "Pyytää apua";
+"_Send" = "Lähettää";
+"_ReviewNow" = "arvio nyt";
+"_TapToRemove" = "Kosketa poistaminen";
+"_MoreInHouseApps"  = "Lisää sovelluksia";
+// EMAIL
+"_EmailServiceNotAvailable" = " Palvelu ei ole käytettävissä nyt.";
+"_WriteYourSuggestionBelow" = "Kirjoita ongelmasi tai ehdotuksesi tähän ..";
+"_media_report_title" = "Voitteko lisätä tämän median liitteenä ?.Se todella auttaa meitä paremmin ymmärtämään ongelman.";
+"_report_us" = "Ilmoita tästä ongelmasta";
+"_media_error_body" = "Jokin meni pieleen samalla saada media.";
+"_media_error_title" = "Mediaa ei löytynyt.";
+// onboard
+"_AP_PhotoLibrary" = "Tarvitsemme luvan päästä valokuvakirjastoosi, jotta voimme lukea ja kirjoittaa mediaa laitteellesi";
+"_Notification" = "ilmoittaminen";
+"_AP_Notification" = "Tarvitsemme luvan voidaksemme ilmoittaa sinulle sovelluksesta tehtävän tilasta";
+"_PhotoLibrary" = "Valokuvakirjasto";
+"_Allow_Access" = "Sallia pääsy";
+// menu
+"_Menu" = "valikko";
+"_Rate_Us" = "Arvioi meidät";
+"_More_Apps" = "Lisää sovelluksia";
+"_Share_App" = "Jakaa";
+
+// IMPORT EXPORT
+"_NoDesignsFoundToTransfer" = "Suunnittelua ei löytynyt siirrettäväksi";
+"_TranferFailed" = "Siirto epäonnistui";
+"_IncorrectZip" = "Väärä tiedosto";
+"_RestoreFailed" = "Palauta epäonnistui. Yritä uudelleen.";
+"_Success" = "Menestys";
+"_ImagesMissingDesignsMayNotDisplayProper" = "Kuvat puuttuvat. Jotkut Designs eivät välttämättä näy kunnolla";
+"_TransferDesigns" = "Siirto designs";
+"_RestoreDesigns" = "Palauta designs";
+
